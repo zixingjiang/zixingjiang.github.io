@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zixing's Homepage!"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

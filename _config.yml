@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zixing Jiang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zixing Jiang"
 description              : &description "Undergraduate at the Chinese University of Hong Kong, Shenzhen"
