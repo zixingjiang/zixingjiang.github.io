@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Zixing JIANG"
 title_separator          : "-"
-name                     : &name "Zixing Jiang"
+name                     : &name "Zixing JIANG"
 description              : &description "Undergraduate at the Chinese University of Hong Kong, Shenzhen"
 url                      : https://jiang-zixing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zixing Jiang"
+  name             : "Zixing JIANG"
   avatar           : "profile.png"
   bio              : "Undergraduate (Year 4) at the Chinese University of Hong Kong, Shenzhen. Major in Electronic and Information Engineering"
   location         : "Shenzhen, China"
