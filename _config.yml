@@ -5,13 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# color skin
-minimal_mistakes_skin: "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Zixing JIANG"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Zixing JIANG"
 description              : &description "Undergraduate at the Chinese University of Hong Kong, Shenzhen"
 url                      : https://jiang-zixing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
