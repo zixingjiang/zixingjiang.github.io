@@ -8,6 +8,8 @@
 # Referring this link: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 # to help setting this document
 
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistake_skin: dark
 
 # Site Settings
 locale                   : "en-US"
