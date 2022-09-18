@@ -1,3 +1,5 @@
+# This file defines the navigation bar at the top of the website
+
 # main links links
 main:
   - title: "Publications"
