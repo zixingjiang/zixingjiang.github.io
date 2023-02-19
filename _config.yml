@@ -19,7 +19,7 @@ name                     : &name "Zixing JIANG"
 description              : &description "Undergraduate at the Chinese University of Hong Kong, Shenzhen"
 url                      : https://jiang-zixing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jiang-zixing.github.io"
+repository               : "JIANG-Zixing/jiang-zixing.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,13 +87,13 @@ analytics:
 # Site Author
 author:
   name             : "Zixing JIANG"
-  avatar           : "profile_zixing.jpg"
+  avatar           : "zixing_profile.jpg"
   bio              : "Undergraduate (Year 4) at the Chinese University of Hong Kong, Shenzhen. Major in Electronic and Information Engineering"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : 119010130@link.cuhk.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : 
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
@@ -267,14 +267,15 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-#  - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-#  - jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
