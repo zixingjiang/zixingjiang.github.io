@@ -12,12 +12,14 @@ Welcome to my homepage! My name is Zixing JIANG, an undergraduate student in [Sc
 
 My research jounery began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu.cn/). I have a broad range of research interests in ***Robotics*** and ***Human-Machine Interaction***. Medical robotics is particularly appealing to me because it is the pinnacle of robot precision manipulation technology and it meets my imagination of robots and humans living together in harmony.
 
-<!-- - ***Robotics***:  design, perception, planning, and control
-- ***Medical Technology***: applications of robotics in medicine, such as surgical robots
-- ***Human-Machine Interaction***: collaborative robots, prosthesis, etc -->
-
 # News
-:pushpin:  I'm looking forward a ... 
+- :pushpin:  I'm actively looking for a Ph.D. position in robotics. Please feel free to contact me if I get your interest.
+- [May. 2022]  A conference paper I contributed (second author) was presented in ICRA 2022. [[Link](https://ieeexplore.ieee.org/document/9812270)]
 
 # Miscellaneous
 
+I am a bit toolism. I am very open to finding and trying efficient and elegant tools that can optimize my workflow. But I have to admit that sometimes I get too obsessed with tools and miss my real job :( Need to overcome that. 
+
+In my spare time, I watch :racing_car: [F1](https://www.formula1.com/) (Redbull Racing) and :soccer: [Premier League](https://www.premierleague.com/) (Manchester City). I am an enthusiastic but casual :video_game: gamer of [Sid Meier's Civilization VI](https://civilization.com/) and [It Takes Two](https://www.ea.com/games/it-takes-two).  
+
+I used to enjoy jogging, but now I get more pleasure from :bicyclist: cycling, especially bikepacking and gravel riding.
