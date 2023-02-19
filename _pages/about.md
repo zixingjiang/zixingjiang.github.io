@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! My name is Zixing JIANG, an undergraduate student in [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). I am working toward a B.Eng. degree in Electronic Information Engineering, Computer Engineering stream and expected to graduate in summer 2023.  
+Welcome to my homepage! My name is Zixing JIANG, an undergraduate student in [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ). I am working toward a B.Eng. degree in Electronic Information Engineering, Computer Engineering stream and expected to graduate in summer 2023.  
 
-My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu.cn/). I have a broad range of research interests in ***Robotics*** and ***Human-Machine Interaction***. Medical robotics is particularly appealing to me because it is the pinnacle of robot precision manipulation technology and it meets my imagination of robots and humans living together in harmony.
+My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL). I have a broad range of research interests in ***Robotics*** and ***Human-Machine Interaction***. Medical robotics is particularly appealing to me because it is the pinnacle of robot precision manipulation technology and it meets my imagination of robots and humans living together in harmony.
 
 # News
 - :pushpin:  I'm actively looking for a Ph.D. position in robotics. Please feel free to contact me if I get your interest.
