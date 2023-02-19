@@ -20,6 +20,6 @@ My research jounery began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu
 
 I am a bit toolism. I am very open to finding and trying efficient and elegant tools that can optimize my workflow. But I have to admit that sometimes I get too obsessed with tools and miss my real job :( Need to overcome that. 
 
-In my spare time, I watch :racing_car: [F1](https://www.formula1.com/) (Redbull Racing) and :soccer: [Premier League](https://www.premierleague.com/) (Manchester City). I am an enthusiastic but casual :video_game: gamer of [Sid Meier's Civilization VI](https://civilization.com/) and [It Takes Two](https://www.ea.com/games/it-takes-two).  
+In my spare time, I watch :checkered_flag: [F1](https://www.formula1.com/) (Redbull Racing) and :soccer: [Premier League](https://www.premierleague.com/) (Manchester City). I am an enthusiastic but casual :video_game: gamer of [It Takes Two](https://www.ea.com/games/it-takes-two) and [Sid Meier's Civilization VI](https://civilization.com/).  
 
 I used to enjoy jogging, but now I get more pleasure from :bicyclist: cycling, especially bikepacking and gravel riding.
