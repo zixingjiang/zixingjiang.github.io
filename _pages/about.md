@@ -12,7 +12,7 @@ Welcome to my homepage! My name is Zixing JIANG, an undergraduate student in [Sc
 
 My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL). I have a broad range of research interests in ***Robotics*** and ***Human-Machine Interaction***. Medical robotics is particularly appealing to me because it is the pinnacle of robot precision manipulation technology and it meets my imagination of robots and humans living together in harmony.
 
-[My Curriculum Vitae](/cv/).
+:pushpin: [My Curriculum Vitae](/cv/).
 
 # News
 - :pushpin:  I'm actively looking for a Ph.D. position in robotics. Please feel free to contact me if I get your interest.
