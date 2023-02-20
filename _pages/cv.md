@@ -9,25 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF CV](http://jiang-zixing.github.io/files/paper1.pdf)
+Here is a streamlined CV. A detailed one is provided in the [PDF version](http://jiang-zixing.github.io/files/paper1.pdf). 
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Electronic Information Engineering, Computer Engineering stream, [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ), 2023 (expected)
 
-Work experience
+
+Appointment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Part-Time Research Assistant, Sept. 2020 - Present
+  * Advanced Marine Robotics Group, [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), CUHK-SZ
+  * Duties include: Assisted in research on UAV-USV collaboration and onboard manipulator
+  * Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Interests
+======
+* Robotics: design, perception, planning, and control
+* Medical Technology: application of robotics in medicine, such as surgical robots
+* Human-Machine Interaction: collaborative robots, prosthesis, etc
   
 Skills
 ======
