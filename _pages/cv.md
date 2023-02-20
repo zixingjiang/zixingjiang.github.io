@@ -20,7 +20,7 @@ Appointment
 ======
 * Part-Time Research Assistant, Sept. 2020 - Present
   * Advanced Marine Robotics Group, [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), CUHK-SZ
-  * Duties include: Assisted in research on UAV-USV collaboration and onboard manipulator
+  * Duties include: assist in research on UAV-USV collaboration and onboard manipulator
   * Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
 
 Research Interests

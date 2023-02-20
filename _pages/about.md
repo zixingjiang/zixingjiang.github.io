@@ -26,4 +26,4 @@ In my spare time, I watch :checkered_flag: [F1](https://www.formula1.com/) (Redb
 
 I used to enjoy jogging, but now I get more pleasure from :bicyclist: cycling, especially bikepacking and gravel riding.
 
-This site is powered by [AcademicPages](https://academicpages.github.io/). If you want a site like mine, you may refer to [AcademicPages' official repository](https://github.com/academicpages/academicpages.github.io) and [this post](https://jayrobwilliams.com/posts/2020/06/academic-website/), which helped me a lot when I built this site. 
+This site is powered by [AcademicPages](https://academicpages.github.io/). If you want a site like mine, you may refer to AcademicPages' [official repository](https://github.com/academicpages/academicpages.github.io) and [this post](https://jayrobwilliams.com/posts/2020/06/academic-website/), which helped me a lot when I built this site. 
