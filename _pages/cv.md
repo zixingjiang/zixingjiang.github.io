@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-:pushpin: This page is a streamlined CV. [View and download the full PDF CV here](/files/CV.pdf). 
+:pushpin: This page is a streamlined CV. [View the full PDF CV here](/files/CV.pdf). 
 
 # Education
 
