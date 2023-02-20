@@ -16,7 +16,7 @@ My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu
 
 # News
 - :pushpin:  I'm actively looking for a Ph.D. position in robotics. Please feel free to contact me if I get your interest.
-- [May. 2022]  A conference paper I contributed (second author) was presented in ICRA 2022. [[Link](https://ieeexplore.ieee.org/document/9812270)]
+- ***05.2022.***  A conference paper I contributed (second author) was presented in ICRA 2022. [[Link](https://ieeexplore.ieee.org/document/9812270)]
 
 # Miscellaneous
 
