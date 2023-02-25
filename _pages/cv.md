@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,23 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-:pushpin: This page is a streamlined CV. [View the full PDF CV here](/files/CV.pdf). 
+This page is a streamlined CV. [View the full PDF CV here](/files/CV.pdf). 
 
 # Education
 
-* B.Eng. in Electronic Information Engineering, Computer Engineering stream, [The Chinese University of Hong Kong, Shenzhen]((https://www.cuhk.edu.cn/en)) (CUHK-SZ), 2023 (expected)
+B.Eng. in Electronic Information Engineering, Computer Engineering stream, [The Chinese University of Hong Kong, Shenzhen]((https://www.cuhk.edu.cn/en)) (CUHK-SZ), 2023 (expected)
 
 
 # Work Experience
-* Part-Time Research Assistant, Feb. 2023 - Present
-  * Prof. Zhenglong Sun's Research Group, [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), CUHK-SZ
-  * Duties include: to be determined
-  * Supervisor: [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong)
+**Part-Time Research Assistant**, Feb. 2023 - Present
+* Prof. Zhenglong Sun's Research Group, [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), CUHK-SZ
+* Duties include: to be determined
+* Supervisor: [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong)
 
-* Part-Time Research Assistant, Sept. 2020 - Feb. 2023
-  * Advanced Marine Robotics Group, RAIL, CUHK-SZ
-  * Duties included: assistance in research on UAV-USV collaboration and onboard manipulator
-  * Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
+**Part-Time Research Assistant**, Sept. 2020 - Feb. 2023
+* Advanced Marine Robotics Group, RAIL, CUHK-SZ
+* Duties included: assistance in research on UAV-USV collaboration and onboard manipulator
+* Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
 
 <!-- # Research Interests
 * Robotics: design, perception, planning, and control

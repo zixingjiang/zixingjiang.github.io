@@ -8,17 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-:pushpin:  This Site is still under consturction!
+<!-- :pushpin:  This Site is still under consturction! -->
 
 Welcome to my homepage! My name is Zixing JIANG, an undergraduate student in [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ). I am working toward a B.Eng. degree in Electronic Information Engineering, Computer Engineering stream and expected to graduate in summer 2023.  
 
-My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL). I have a broad range of research interests in ***Robotics*** and ***Human-Machine Interaction***. Medical robotics is particularly appealing to me because it is the pinnacle of robot precision manipulation technology and it meets my imagination of robots and humans living together in harmony.
+My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL). I have a broad range of research interests in ***Robotics*** and ***Human-Machine Interaction***. From an application perspective, medical robotics is particularly appealing to me because it is the pinnacle of robot precision manipulation and it meets my imagination of robots and humans living together in harmony. From a technical perspective, I am currently interested in trajectory planning and force control of high degree-of-freedom serial/parallel/continuum manipulators.
 
-<!-- :pushpin: [My Curriculum Vitae](/cv/). -->
+[My Curriculum Vitae](/cv/).
 
 # Working on
+- Recently I am working with a doctoral postgraduate to improve my final year project and summarize it as a journal paper.
 
 # News
+- :pushpin: I'm actively looking for a Ph.D. position in robotics (prefer medical robotics discipline). Please feel free to contact me if I get your interest!
+- **[01.2023]** My final year project "Control of the Multi-joint Manipulator for Grasping on Water Surface" was honored distinction within the school. Sincere acknowledgements to professors and postgraduates who have given me genuine guidance.
+- **[05.2022]** A conference paper I contributed (second author) was presented in IEEE ICRA 2022. [Link of the paper](https://ieeexplore.ieee.org/document/9812270).
+
 
 # Resources
 I would like to share with you some resources that I have found very helpful:
@@ -36,11 +41,11 @@ To know more about me:
 
 - I am a bit toolism. I am very open to finding and trying efficient and elegant tools that can optimize my workflow. But I have to admit that sometimes I get too obsessed with tools and miss my real job :( Need to overcome that. 
 
-- In my spare time, I watch :checkered_flag: [F1](https://www.formula1.com/) (Redbull Racing) and :soccer: [Premier League](https://www.premierleague.com/) (Manchester City). I am an enthusiastic but casual :video_game: gamer of [It Takes Two](https://www.ea.com/games/it-takes-two) and [Sid Meier's Civilization VI](https://civilization.com/).  
+- In my spare time, I watch :checkered_flag: [F1](https://www.formula1.com/) (Redbull Racing) and :soccer: [Premier League](https://www.premierleague.com/) (Manchester City). I am an enthusiastic but casual :video_game: gamer of [It Takes Two](https://www.ea.com/games/it-takes-two) and [Sid Meier's Civilization VI](https://civilization.com/). Besides, I'm a fan of Japnese/Chinese anime and comics.  
 
 - I often browse cooking videos and recipes online and try to replicate them myself. Sometimes I feel like a talented chef and sometimes I feel like I'm wasting food.
 
-- I used to enjoy jogging, but now I get more pleasure from :bicyclist: cycling, especially bikepacking and gravel riding. I commute by bike, and I ride to release negative emotions.
+- I used to enjoy jogging, but now I get more pleasure from :bicyclist: cycling, especially bikepacking and gravel riding. I commute by bike, and I ride to release negative emotions. P.S. I assembled a gravel bike meself (Seaboard GR02 frameset + Shimano 105 groupset). 
 
 
 ![my bike](image/about/bike.jpg)
