@@ -3,8 +3,8 @@
 # main links links
 main:
 
-  - title: "About me"
-    url: /about/
+  # - title: "About me"
+  #   url: /about/
 
 
   #- title: "Talks"

@@ -2,5 +2,5 @@
 title: "Bio-inspired Aquatic-Aerial Hybrid Locomotion Robot"
 collection: projects
 permalink: /projects/bio_inspired_aquatic_aerial_hybrid_locomotion_robot
-excerpt: project discription
+excerpt: Research project (individual) supported by Undergratudate Research Award, CUHK-SZ. **[Nov. 2021 - Jul. 2022]**
 ---

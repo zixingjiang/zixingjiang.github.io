@@ -5,9 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
+The followings are some of my previous and ongoing projects. If you are interested, you are welcome to click on the links to view the project profiles.
 
 {% include base_path %}
 
