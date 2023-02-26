@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF CV](/files/CV.pdf). 
+The following is a streamlined CV. For more information, you may refer to the [detailed CV (PDF)](/files/CV.pdf). 
 
 # Education
 
@@ -32,7 +32,7 @@ redirect_from:
   * Delivered weekly tutorials to junior SRA members with fellow senior SRA members, covering PID control, microcontroller programming, robot kinematics, and hands-on projects such as building small unmanned sailboats and small McNamee wheeled unmanned vehicles
 
 # Selected Projects
-  <ul>{% for post in site.projects %}
+  <ul>{% for post in site.projects%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
