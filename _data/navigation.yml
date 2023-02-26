@@ -19,14 +19,14 @@ main:
   - title: "Curriculum Vitae"
     url: /cv/
 
-  - title: "Blog Posts"
-    url: /year-archive/
-
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Blog Posts"
+    url: /year-archive/
 
   - title: "Gallery"
     url: /portfolio/

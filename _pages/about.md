@@ -12,9 +12,9 @@ redirect_from:
 
 Welcome to my homepage! My name is Zixing JIANG, an undergraduate student in [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ). I am working toward a B.Eng. degree in Electronic Information Engineering, Computer Engineering stream and expected to graduate in summer 2023.  
 
-My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL). I have a broad range of research interests in ***Robotics*** and ***Human-Machine Interaction***. From an application perspective, medical robotics is particularly appealing to me because it is the pinnacle of robot precision manipulation and it meets my imagination of robots and humans living together in harmony. From a technical perspective, I am currently interested in trajectory planning and force control of high degree-of-freedom serial/parallel/continuum manipulators.
+My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL). I have a broad range of research interests in ***Robotics*** and ***Human-Machine Interaction***. From an application perspective, medical robotics is particularly appealing to me because it is the pinnacle of robot precision manipulation and it meets my imagination of robots and humans living together in harmony. From a technical perspective, I am currently interested in trajectory planning, force control, and visual servoing of high degree-of-freedom serial/parallel/continuum manipulators.
 
-[My Curriculum Vitae](/cv/).
+:pushpin: [My Curriculum Vitae](/cv/). :pushpin: [My previous and ongoing projects](/projects/).
 
 # Working on
 - Recently I am working with a doctoral postgraduate to improve my final year project and summarize it as a journal paper.
@@ -22,7 +22,7 @@ My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu
 # News
 - :pushpin: I'm actively looking for a Ph.D. position in robotics (prefer medical robotics discipline). Please feel free to contact me if I get your interest!
 - **[01.2023]** My final year project "Control of the Multi-joint Manipulator for Grasping on Water Surface" was honored distinction within the school. Sincere acknowledgements to professors and postgraduates who have given me genuine guidance.
-- **[05.2022]** A conference paper I contributed (second author) was presented in IEEE ICRA 2022. [Link of the paper](https://ieeexplore.ieee.org/document/9812270).
+- **[05.2022]** A conference paper I contributed (second author) was presented in IEEE ICRA 2022. [View the paper on IEEE Xplore](https://ieeexplore.ieee.org/document/9812270).
 
 
 # Resources

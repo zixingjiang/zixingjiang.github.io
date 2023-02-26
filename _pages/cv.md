@@ -9,30 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-This page is a streamlined CV. [View the full PDF CV here](/files/CV.pdf). 
+[Download PDF CV](/files/CV.pdf). 
 
 # Education
 
-B.Eng. in Electronic Information Engineering, Computer Engineering stream, [The Chinese University of Hong Kong, Shenzhen]((https://www.cuhk.edu.cn/en)) (CUHK-SZ), 2023 (expected)
+* B.Eng. in Electronic Information Engineering, Computer Engineering stream, [The Chinese University of Hong Kong, Shenzhen]((https://www.cuhk.edu.cn/en)) (CUHK-SZ), 2023 (expected)
 
+# Work experience
+* Part-Time Research Assistant. Feb. 2023 - Present
+  * Prof. Zhenglong Sun's Research Group, [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), CUHK-SZ
+  * Duties include: to be determined
+  * Supervisor: [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong)
 
-# Work Experience
-**Part-Time Research Assistant**, Feb. 2023 - Present
-* Prof. Zhenglong Sun's Research Group, [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), CUHK-SZ
-* Duties include: to be determined
-* Supervisor: [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong)
+* Part-Time Research Assistant. Sept. 2020 - Feb. 2023
+  * Advanced Marine Robotics Group, RAIL, CUHK-SZ
+  * Duties included: assistance in research on UAV-USV collaboration and onboard manipulator
+  * Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
 
-**Part-Time Research Assistant**, Sept. 2020 - Feb. 2023
-* Advanced Marine Robotics Group, RAIL, CUHK-SZ
-* Duties included: assistance in research on UAV-USV collaboration and onboard manipulator
-* Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
+# Service and leadership
+* President of Student Robotics Association (SRA), RAIL, CUHK-SZ. Sept. 2020 - Feb. 2022
+  * Responsible for the operation of SRA, including membership recruitment, assisting in holding RAIL briefings for SRA members, and bridging RAIL and CUHK-SZ undergraduates
+  * Delivered weekly tutorials to junior SRA members with fellow senior SRA members, covering PID control, microcontroller programming, robot kinematics, and hands-on projects such as building small unmanned sailboats and small McNamee wheeled unmanned vehicles
+
+# Selected Projects
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 <!-- # Research Interests
 * Robotics: design, perception, planning, and control
 * Medical Technology: application of robotics in medicine, such as surgical robots
 * Human-Machine Interaction: collaborative robots, prosthesis, etc -->
 
-# Publications
+<!-- # Publications
 
 ## Conference Proceeding
 
@@ -56,7 +65,7 @@ CN217320745U
 
 [4] Zefang Song, Xiaoqiang Ji, **Zixing Jiang**, and Huihuan Qian, “A Dual Crank-based
 Flapping-wing Configuration and Flapping-Wing Micro Aerial Vehicle on Water Surface”,
-Chinese patent CN217320744U
+Chinese patent CN217320744U -->
 
 <!-- # Projects
 
@@ -96,26 +105,33 @@ ECE4310: Programming for Robotics, 2022 Spring, CUHK-SZ -->
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
-======
+<!-- # Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+  {% endfor %}</ul> -->
+
+<!-- # Competitions
+
+# Awards -->
+
+<!-- # Skills -->
+
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
