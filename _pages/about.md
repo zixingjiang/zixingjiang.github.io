@@ -18,6 +18,7 @@ My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu
 
 # Working on
 - Recently I am working with a doctoral postgraduate to improve my final year project and summarize it as a journal paper.
+- I'm working on buliding this site!
 
 # News
 - :pushpin: I'm actively looking for a Ph.D. position in robotics (prefer medical robotics discipline). Please feel free to contact me if I get your interest!
