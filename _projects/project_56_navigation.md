@@ -2,7 +2,7 @@
 title: "Navigation of Service Robot"
 collection: projects
 permalink: /projects/navigation_of_service_robot
-excerpt: Course project (individual) of *ECE4310 Programming for Robotics* at CUHK-SZ. **[Jan. 2022 - May. 2022]**
+excerpt: "Course project (individual) of *ECE4310 Programming for Robotics* at CUHK-SZ. **[Jan. 2022 - May. 2022]**<br/><img src='/images/500x300.png'>"
 ---
 
 ## Introduction

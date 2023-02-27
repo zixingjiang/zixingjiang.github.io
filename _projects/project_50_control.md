@@ -2,7 +2,7 @@
 title: "Control of the Multi-joint Manipulator for Grasping on Water Surface"
 collection: projects
 permalink: /projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface
-excerpt: Final year project at CUHK-SZ. **[Sept. 2022 - Jan. 2023]**
+excerpt: "Final year project at CUHK-SZ. **[Sept. 2022 - Jan. 2023]**<br/><img src='/images/500x300.png'>"
 ---
 
 {% include base_path %}
@@ -18,7 +18,7 @@ This project originated from the UAV-USV collaborative system project of the [RA
 
 ![usv](image/USV.png)
 
-An unavoidable problem in this system is **how to safely land the UAV on the USV**. 
+In such a UAV-USV collaborative system, an unavoidable problem is **how to safely land the UAV on the USV**. The solution proposed by Advancedd Marine Robotics Group is to use an onboard manipulator to assist the UAV in landing. 
 
 ## Problem statement
 
@@ -31,3 +31,5 @@ Here is a video demonstration of simulation
 </video>
 
 ## Acknowledgement
+
+## Related links

@@ -28,8 +28,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Gallery"
-    url: /portfolio/
+  # - title: "Gallery"
+  #   url: /portfolio/
 
 
   #- title: "Guide"
