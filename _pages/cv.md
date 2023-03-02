@@ -41,39 +41,9 @@ The following is a streamlined CV. For more information, you may refer to the [d
   * Responsible for the operation of SRA, including membership recruitment, assisting in holding RAIL briefings for SRA members, and bridging RAIL and CUHK-SZ undergraduates
   * Delivered weekly tutorials to junior SRA members with fellow senior SRA members, covering PID control, microcontroller programming, robot kinematics, and hands-on projects such as building small unmanned sailboats and small McNamee wheeled unmanned vehicles
 
-Skills
-======
+# Skills
 * Languages: Mandarin Chinese (native speaker), English
 * Programming:
   * Frequently used: C/C++, Python, MATLAB
   * Entry level: SQL, Verilog, VHDL
 * Miscellaneous: ROS, LATEX, SolidWorks, Arduino, Multisim
-
-<!-- # Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
-<!-- # Competitions
-
-# Awards -->
-
-<!-- # Skills -->
-
-
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
