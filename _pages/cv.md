@@ -16,7 +16,7 @@ The following is a streamlined CV. For more information, you may refer to the [d
 * B.Eng. in Electronic Information Engineering, Computer Engineering stream, [The Chinese University of Hong Kong, Shenzhen]((https://www.cuhk.edu.cn/en)) (CUHK-SZ), 2023 (expected)
 
 # Appointments
-* Part-Time Research Assistant. Feb. 2023 - Present
+* Part-Time Research Assistant. March. 2023 - Present
   * Prof. Zhenglong Sun's Research Group, [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), CUHK-SZ
   * Duties include: assistance in research on autonomous ultrasound scanning
   * Supervisor: [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong)
