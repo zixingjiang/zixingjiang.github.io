@@ -18,7 +18,7 @@ The following is a streamlined CV. For more information, you may refer to the [d
 # Work experience
 * Part-Time Research Assistant. Feb. 2023 - Present
   * Prof. Zhenglong Sun's Research Group, [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), CUHK-SZ
-  * Duties include: to be determined
+  * Duties include: assistance in research on autonomous ultrasound scanning
   * Supervisor: [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong)
 
 * Part-Time Research Assistant. Sept. 2020 - Feb. 2023
