@@ -9,7 +9,7 @@ excerpt: "Course project (group of 2 with the dominant contribution) of *ECE4513
 
 - Course project (group of 2 with the dominant contribution) of *ECE4513 Image Processing and Computer Vision* at CUHK-SZ
 - Sept. 2022 - Dec. 2022
-- Supervisor: [Prof. Zhen LI](https://sse.cuhk.edu.cn/en/faculty/lizhen)
+- Course Instructor: [Prof. Zhen LI](https://sse.cuhk.edu.cn/en/faculty/lizhen)
 - Keywords: *stereo vision*, *depth estimation*, *robot odometry*
 
 ## Motivation

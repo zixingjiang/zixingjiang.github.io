@@ -9,7 +9,7 @@ excerpt: "Course project (individual) of *ECE4310 Programming for Robotics* at C
 
 - Course project (individual) of *ECE4310 Programming for Robotics* at CUHK-SZ. 
 - Jan. 2022 - May. 2022
-- Supervisor: [Prof. Tin Lun LAM](https://sse.cuhk.edu.cn/en/faculty/tinlunlam)
+- Course Instructor: [Prof. Tin Lun LAM](https://sse.cuhk.edu.cn/en/faculty/tinlunlam)
 - Keywords: *robot navigation*
 
 ## Introduction
