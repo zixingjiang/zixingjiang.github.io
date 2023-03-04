@@ -23,7 +23,7 @@ My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu
 # News
 - :pushpin: I'm actively looking for a Ph.D. position in robotics (prefer medical robotics discipline). Please feel free to contact me if I get your interest!
 - **[01.2023]** My final year project "Control of the Multi-joint Manipulator for Grasping on Water Surface" was honored distinction within the school. Sincere acknowledgements to professors and postgraduates who have given me genuine guidance.
-- **[05.2022]** A conference paper I contributed (second author) was presented in IEEE ICRA 2022. [View the paper on IEEE Xplore](https://ieeexplore.ieee.org/document/9812270).
+- **[05.2022]** A conference paper I contributed (second author) was presented in IEEE ICRA 2022. [View paper & media on IEEE Xplore](https://ieeexplore.ieee.org/document/9812270).
 
 
 # Resources

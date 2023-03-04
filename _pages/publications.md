@@ -5,22 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
 ## Conference Proceeding
 
 **[1]** Chongfeng Liu, **Zixing Jiang**, Ruoyu Xu, Xiaoqiang Ji, Lianxin Zhang, and Huihuan Qian*,
 “Design and Optimization of a Magnetic Catch System for Precise UAV Landing on Disturbed
 Aquatic Surface Platform”, _2022 International Conference on Robotics and Automation (ICRA)_,
-Philadelphia, PA, USA. doi: 10.1109/ICRA46639.2022.9812270 [[link]](https://ieeexplore.ieee.org/document/9812270)
+Philadelphia, PA, USA. doi: 10.1109/ICRA46639.2022.9812270 [[View on IEEE Xplore]](https://ieeexplore.ieee.org/document/9812270)
 
 ## Patents
 **[1]** Chongfeng Liu, Zhongzhong Cao, **Zixing Jiang**, Rouyu Xu, Xiaoqiang Ji, and Huihuan
