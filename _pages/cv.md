@@ -38,11 +38,11 @@ The following is a streamlined CV. For more information, you may refer to the [d
 
 # Skills
 * Languages: Mandarin Chinese (native speaker), English
-* Tasks: robot & microprocessor programming, planning & control of manipulator, mechanical design
+* Tasks: robot & microprocessor programming, manipulator kinematics & dynamics, trajectory planning, mechanical design
 * Programming:
   * Frequently used: C/C++, Python, MATLAB
   * Entry level: SQL, Verilog, VHDL
-* Miscellaneous: ROS, LATEX, SolidWorks, Arduino, Multisim
+* Miscellaneous: ROS, LATEX, SolidWorks, Arduino, STM32, Multisim
 
 # Selected projects
   <ul>{% for post in site.projects%}
