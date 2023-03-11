@@ -31,19 +31,20 @@ The following is a streamlined CV. For more information, you may refer to the [d
 * Medical Technology: application of robotics in medicine, such as surgical robots
 * Human-Machine Interaction: collaborative robots, prosthesis, etc
 
-# Selected projects
-  <ul>{% for post in site.projects%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 # Service and leadership
 * President of Student Robotics Association (SRA), RAIL, CUHK-SZ. Sept. 2020 - Feb. 2022
-  * Responsible for the operation of SRA, including membership recruitment, assisting in holding RAIL briefings for SRA members, and bridging RAIL and CUHK-SZ undergraduates
-  * Delivered weekly tutorials to junior SRA members with fellow senior SRA members, covering PID control, microcontroller programming, robot kinematics, and hands-on projects such as building small unmanned sailboats and small McNamee wheeled unmanned vehicles
+  * Responsible for the operation of SRA
+  * Delivered weekly tutorials to junior SRA members with fellow senior SRA members
 
 # Skills
 * Languages: Mandarin Chinese (native speaker), English
+* Tasks: robot programming, manipulator control, trajectory planning
 * Programming:
   * Frequently used: C/C++, Python, MATLAB
   * Entry level: SQL, Verilog, VHDL
 * Miscellaneous: ROS, LATEX, SolidWorks, Arduino, Multisim
+
+# Selected projects
+  <ul>{% for post in site.projects%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
