@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+(# denotes equal contribution, * denotes corresponding author)
+
 ## Conference Proceeding
 
 **[1]** Chongfeng Liu, **Zixing Jiang**, Ruoyu Xu, Xiaoqiang Ji, Lianxin Zhang, and Huihuan Qian*,

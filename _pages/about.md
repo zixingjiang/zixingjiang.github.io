@@ -18,10 +18,10 @@ My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu
 
 # Working on
 - Recently I am working with a doctoral postgraduate to improve my final year project and summarize it as a journal paper.
-- I'm working on buliding this site!
+- I'm working on building this site!
 
 # News
-- :pushpin: I'm actively looking for a Ph.D. position in robotics (prefer medical robotics discipline). Please feel free to contact me if I get your interest!
+- :pushpin: I'm actively looking for a research-oriented postgraduate (Ph.D./M.Phil.) position in robotics. Please feel free to contact me if I get your interest!
 - **[01.2023]** My final year project "Control of the Multi-joint Manipulator for Grasping on Water Surface" was honored distinction within the school. Sincere acknowledgements to professors and postgraduates who have given me genuine guidance.
 - **[05.2022]** A conference paper I contributed (second author) was presented in IEEE ICRA 2022. [View paper & media on IEEE Xplore](https://ieeexplore.ieee.org/document/9812270).
 
