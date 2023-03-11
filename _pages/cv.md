@@ -38,7 +38,7 @@ The following is a streamlined CV. For more information, you may refer to the [d
 
 # Skills
 * Languages: Mandarin Chinese (native speaker), English
-* Tasks: robot programming, manipulator control, trajectory planning
+* Tasks: robot & microprosser programming, planning & control of manipulator, mechanical design
 * Programming:
   * Frequently used: C/C++, Python, MATLAB
   * Entry level: SQL, Verilog, VHDL
