@@ -7,7 +7,7 @@ excerpt: "Research project (involved, working closely with a doctoral postgradua
 
 {% include base_path %}
 
-* Involved research project at RAIL, CUHK-SZ
-* Sept. 2020 - Sept. 2021
+* Involved research project at RAIL Advanced Robotics Group, CUHK-SZ. *Sept. 2020 - Sept. 2021*
 * Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
+* Mentor: Mr. Chongfeng LIU (doctoral postgraduate)
 * Keywords: *UAV landing*, *mechanical design*

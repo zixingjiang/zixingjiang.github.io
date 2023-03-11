@@ -12,21 +12,26 @@ redirect_from:
 
 Welcome to my homepage! My name is Zixing JIANG, an undergraduate student in [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ). I am working toward a B.Eng. degree in Electronic Information Engineering, Computer Engineering stream and expected to graduate in summer 2023.  
 
-My research journey began in CUHK-SZ's [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL). I have a broad range of research interests in **Robotics** and **Human-Machine Interaction**. From an application perspective, *medical robotics* is particularly appealing to me because it is the pinnacle of robot precision manipulation and it meets my imagination of robots and humans living together in harmony. From a technical perspective, I am currently interested in *visual servoing* and *trajectory planning and force control of high degree-of-freedom serial/parallel/continuum manipulators*.
+My research journey began in CUHK-SZ [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL). I have a broad range of research interests in **Robotics** and **Human-Machine Interaction**. From an application perspective, *medical robotics* is particularly appealing to me because it is the pinnacle of robot precision manipulation and it meets my imagination of robots and humans living together in harmony. From a technical perspective, I am currently interested in *visual servoing* and *trajectory planning and force control of high degree-of-freedom serial/parallel/continuum manipulators*.
 
 :pushpin: [My Curriculum Vitae](/cv/). :pushpin: [My previous and ongoing projects](/projects/).
 
 # Working on
-- Recently I am working with a doctoral postgraduate to improve my final year project and summarize it as a journal paper.
-- I'm working on building this site!
+- I'm investigating research in robot-assisted medical imaging.
+- I'm working with a doctoral postgraduate to make improvements on the basis of my [final year project](/projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/). We hope to achieve a meaningful result and publish it in an academic journal. 
 
-# News
+# News & Milestones
 - :pushpin: I'm actively looking for a research-oriented postgraduate (Ph.D./M.Phil.) position in robotics. Please feel free to contact me if I get your interest!
-- **[01.2023]** My final year project "Control of the Multi-joint Manipulator for Grasping on Water Surface" was honored distinction within the school. Sincere acknowledgements to professors and postgraduates who have given me genuine guidance.
-- **[05.2022]** A conference paper I contributed (second author) was presented in IEEE ICRA 2022. [View paper & media on IEEE Xplore](https://ieeexplore.ieee.org/document/9812270).
+- **[03.2023]** I identified my research interests as *Robot-assisted Medical Procedures* and *Human-Machine Interaction*, so I moved to RAIL Prof. Zhenglong Sun's research group to try my hand at medical robotics.
+- **[01.2023]** I finished my [final year project](/projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/) at RAIL Advanced Marine Robotics group and received a distinction grade.
+- **[05.2022]** A conference [paper]((https://ieeexplore.ieee.org/document/9812270)) I contributed (second author) was presented in IEEE ICRA 2022. The first academic publication I was involved in. 
+- **[11.2021]** I received a grant from CUHK-SZ Undergraduate Research Award, and try to handle a research project on my own for the first time.
+- **[09.2020]** I joined RAIL Advanced Marine Robotics group as an undergraduate research assistant. My first attempt at research.
+- **[09.2019]** I joined RAIL Student Robotics Association. My first exposure to robotics.
 
 
-# Resources
+
+<!-- # Resources
 I would like to share with you some resources that I have found very helpful:
 
 - [Springer Handbook of Robotics](https://link.springer.com/book/10.1007/978-3-319-32552-1). A very informative book covering the development, applications, and issues to be addressed in robotics up to 2016, edited by two authorities on robotics, [Bruno Siciliano](http://wpage.unina.it/sicilian/) and [Oussama Khatib](https://khatib.stanford.edu/). This book is my first choice to start my literature review. 
@@ -51,4 +56,4 @@ To know more about me:
 
 ![my bike](image/about/bike.jpg)
 
-<!-- - This site is powered by [AcademicPages](https://academicpages.github.io/). If you want a site like mine, you may refer to AcademicPages' [official repository](https://github.com/academicpages/academicpages.github.io) and [this post](https://jayrobwilliams.com/posts/2020/06/academic-website/), which helped me a lot when I built this site.  -->
+- This site is powered by [AcademicPages](https://academicpages.github.io/). If you want a site like mine, you may refer to AcademicPages' [official repository](https://github.com/academicpages/academicpages.github.io) and [this post](https://jayrobwilliams.com/posts/2020/06/academic-website/), which helped me a lot when I built this site.  -->

@@ -46,7 +46,7 @@ This page is a streamlined CV. For more information, you may refer to the :point
 
 ---
 
-# Skillset
+# Skills
 * **Languages:** Mandarin Chinese (native speaker), English
 * **Tasks:** robot programming, electronics design, mechanical design
 * **Algorithms:** manipulator control, trajectory planning, motion prediction, object detection
@@ -67,7 +67,8 @@ This page is a streamlined CV. For more information, you may refer to the :point
 
 # Academic publication
 
-(# denotes equal contribution, * denotes corresponding author)
+Notation: # equal contribution, * corresponding author
+<!-- (# denotes equal contribution, * denotes corresponding author) -->
 
 **[2022]** Chongfeng Liu, **Zixing Jiang**, Ruoyu Xu, Xiaoqiang Ji, Lianxin Zhang, and Huihuan Qian*, “Design and Optimization of a Magnetic Catch System for Precise UAV Landing on Disturbed Aquatic Surface Platform”, _2022 International Conference on Robotics and Automation (ICRA)_, Philadelphia, PA, USA. doi: 10.1109/ICRA46639.2022.9812270
 

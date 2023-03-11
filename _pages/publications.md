@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(# denotes equal contribution, * denotes corresponding author)
+Notation: # equal contribution, * corresponding author
 
 ## Conference Proceeding
 

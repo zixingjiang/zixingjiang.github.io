@@ -7,9 +7,9 @@ excerpt: "Final year project at CUHK-SZ. **[Sept. 2022 - Jan. 2023]**<br/><img s
 
 {% include base_path %}
 
-* Final year project at CUHK-SZ
-* Sept. 2022 - Jan. 2023
-* Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
+* Final year project at RAIL Advanced Robotics Group, CUHK-SZ. *Sept. 2022 - Jan. 2023*
+* Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan). 
+* Mentor: Mr. Ruoyu XU (doctoral postgraduate)
 * Keywords: *objective catching*, *motion prediction*, *floating-base manipulator*
 
 
