@@ -56,7 +56,9 @@ This page is a streamlined CV. You may refer to the [detailed CV (PDF)](/files/C
 * **Miscellaneous:** LaTeX, SolidWorks, Arduino, STM32
 
 ---
+:pushpin: [My previous and ongoing projects](/projects/). :pushpin: [My publications](/publications/). 
 
+<!-- 
 # Selected projects
   <ul>{% for post in site.projects%}
     {% include archive-single-cv.html %}
@@ -70,5 +72,5 @@ This page is a streamlined CV. You may refer to the [detailed CV (PDF)](/files/C
 Notation: # equal contribution, * corresponding author
 <!-- (# denotes equal contribution, * denotes corresponding author) -->
 
-**[2022]** Chongfeng Liu, **Zixing Jiang**, Ruoyu Xu, Xiaoqiang Ji, Lianxin Zhang, and Huihuan Qian*, “Design and Optimization of a Magnetic Catch System for Precise UAV Landing on Disturbed Aquatic Surface Platform”, _2022 International Conference on Robotics and Automation (ICRA)_, Philadelphia, PA, USA. doi: 10.1109/ICRA46639.2022.9812270
+<!-- **[2022]** Chongfeng Liu, **Zixing Jiang**, Ruoyu Xu, Xiaoqiang Ji, Lianxin Zhang, and Huihuan Qian*, “Design and Optimization of a Magnetic Catch System for Precise UAV Landing on Disturbed Aquatic Surface Platform”, _2022 International Conference on Robotics and Automation (ICRA)_, Philadelphia, PA, USA. doi: 10.1109/ICRA46639.2022.9812270 --> 
 
