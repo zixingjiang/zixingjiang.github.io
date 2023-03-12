@@ -1,7 +1,7 @@
 ---
 title: "Control of the Multi-joint Manipulator for Grasping on Water Surface"
 collection: projects
-permalink: /projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface
+permalink: /projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/
 excerpt: "Final year project at CUHK-SZ. **[Sept. 2022 - Jan. 2023]**<br/><img src='image/grasp_sim.gif' width='600px'>"
 ---
 

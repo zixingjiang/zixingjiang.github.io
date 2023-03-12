@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Sorting with Eye-in-Hand Manipulator"
 collection: projects
-permalink: /projects/intelligent_sorting_with_eye_in_hand_manipulator
+permalink: /projects/intelligent_sorting_with_eye_in_hand_manipulator/
 excerpt: "Course project (individual) of *ECE4310 Programming for Robotics* at CUHK-SZ. **[Jan. 2022 - May. 2022]**<br/><img src='image/sorting.gif' width='600px'>"
 ---
 
