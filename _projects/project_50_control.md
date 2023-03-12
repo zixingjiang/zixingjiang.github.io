@@ -17,7 +17,7 @@ excerpt: "Final year project at CUHK-SZ. **[Sept. 2022 - Jan. 2023]**<br/><img s
 
 This project originated from the UAV-USV collaborative system project of the [RAIL Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260) of the Chinese University of Hong Kong (Shenzhen). The system is dedicated to allowing UAV and USV to cooperate autonomously like an aircraft carrier to complete some tasks on the ocean. To know more about the system, here is a [preprint](https://arxiv.org/abs/2212.12196).
 
-![usv](image/USV.png)
+![usv](/images/USV.png)
 
 In such a UAV-USV collaborative system, an unavoidable problem is **how to safely and precisely land the UAV on the USV**. The solution proposed by Advanced Marine Robotics Group is to **use an onboard manipulator to assist the UAV in landing**: *we first hover the UAV near the USV, and then use the onboard manipulator to capture the hovering UAV*. The manipulator-assisted approach has the following advantages:
 
@@ -34,19 +34,19 @@ This project aims to design a control framework for the manipulator to overcome 
 
 ## Methodology
 
-![usv](image/method.png)
+![usv](/images/method.png)
 
 ## Results
 
 Here is a video demonstration of simulation 
 
-![sim](image/sim.png)
+![sim](/images/sim.png)
 
 <video src="/files/grasp_sim.mov" controls="controls" style="max-width: 769px;">
 </video>
 ## Additional information
 
-La
+<!-- La
 
 ## Acknowledgement
 
@@ -54,4 +54,4 @@ La
 
 ## Related
 
-[My another research project ](/projects/precise_landing_of_unmanned_aerial_vehicle_on_disturbed_aquatic_surface_platforms)
+[My another research project ](/projects/precise_landing_of_unmanned_aerial_vehicle_on_disturbed_aquatic_surface_platforms) -->
