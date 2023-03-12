@@ -22,11 +22,11 @@ My research journey began in CUHK-SZ [Robotics & AI Lab](https://rail.cuhk.edu.c
 
 # News & Milestones
 - :pushpin: I'm actively looking for a research-oriented postgraduate (Ph.D./M.Phil.) position in robotics. Please feel free to contact me if I get your interest!
-- **[03.2023]** I identified my research interests as *Robot-assisted Medical Procedures* and *Human-Machine Interaction*, so I moved to RAIL Prof. Zhenglong Sun's research group to try my hand at medical robotics.
-- **[01.2023]** I finished my [final year project](/projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/) at RAIL Advanced Marine Robotics group and received a distinction grade.
+- **[03.2023]** I moved to RAIL [Prof. Zhenglong Sun's Research Group](https://rail.cuhk.edu.cn/team/255) to try my hand at medical robotics.
+- **[01.2023]** I finished my [final year project](/projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/) at RAIL [Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260) and received a distinction grade.
 - **[05.2022]** A conference [paper]((https://ieeexplore.ieee.org/document/9812270)) I contributed (second author) was presented in IEEE ICRA 2022. The first academic publication I was involved in. 
 - **[11.2021]** I received a grant from CUHK-SZ Undergraduate Research Award, and try to handle a research project on my own for the first time.
-- **[09.2020]** I joined RAIL Advanced Marine Robotics group as an undergraduate research assistant. My first attempt at research.
+- **[09.2020]** I joined RAIL [Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260) as an undergraduate research assistant. My first attempt at research.
 - **[09.2019]** I joined RAIL Student Robotics Association. My first exposure to robotics.
 
 
