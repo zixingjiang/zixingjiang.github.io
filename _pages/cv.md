@@ -9,35 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-This page is a streamlined CV. For more information, you may refer to the :point_right: [detailed CV (PDF)](/files/CV.pdf). 
+This page is a streamlined CV. You may refer to the [detailed CV (PDF)](/files/CV.pdf) for more information. 
 
 ---
 
 # Education
 
-* **B.Eng.** in Electronic Information Engineering, Computer Engineering stream, [The Chinese University of Hong Kong, Shenzhen]((https://www.cuhk.edu.cn/en)) (CUHK-SZ), 2023 (expected)
+* **B.Eng.** in Electronic Information Engineering, Computer Engineering stream, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), 2023 (expected)
 
 ---
 
 # Research experience
 * **Research Assistant.** March. 2023 - Present
-  * [Prof. Zhenglong Sun's Research Group](https://rail.cuhk.edu.cn/team/255), [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), CUHK-SZ
+  * Prof. Zhenglong Sun's Research Group, Robotics & AI Lab (RAIL), CUHK-SZ
   * Research topic: *robot-assisted ultrasound imaging*
-  * Supervisor: [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong)
+  * Supervisor: Prof. Zhenglong SUN
 
 * **Research Assistant.** Sept. 2020 - Feb. 2023
-  * [Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260), RAIL, CUHK-SZ
+  * Advanced Marine Robotics Group, RAIL, CUHK-SZ
   * Research topic: *manipulator-assisted UAV landing, floating-based manipulator*
-  * Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
+  * Supervisor: Prof. Huihuan Alex QIAN
 
 ---
 
-# Research interests
+<!-- # Research interests
 * Robotics: design, perception, planning, and control
 * Robot-assisted Medical Procedures
 * Human-Machine Interaction: collaborative robots, prosthesis, etc
 
----
+--- -->
 
 # Service and leadership
 * President of Student Robotics Association (SRA), RAIL, CUHK-SZ. Sept. 2020 - Feb. 2022
