@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This page is a streamlined CV. For more information, you may refer to the 
-
-:pushpin: [Detailed CV (PDF)](/files/CV.pdf)
+This page is a streamlined CV. For more information, you may refer to the [detailed CV (PDF)](/files/CV.pdf)
 
 ---
 
@@ -58,9 +56,15 @@ This page is a streamlined CV. For more information, you may refer to the
 * **Miscellaneous:** LaTeX, SolidWorks, Arduino, STM32
 
 ---
-:pushpin: [My previous and ongoing projects](/projects/). 
 
-:pushpin: [My publications](/publications/). 
+# Projects
+[My previous and ongoing projects](/projects/). 
+
+---
+
+# Publications
+
+[My publications](/publications/). 
 
 <!-- 
 # Selected projects
