@@ -7,7 +7,7 @@ excerpt: "Research project (individual) supported by Undergratudate Research Awa
 
 {% include base_path %}
 
-* Individual research project at CUHK-SZ. *Nov. 2021 - Jul. 2022*
+* Individual research project at CUHK-SZ. *Nov. 2021 - Oct. 2022*
 * Supported by CUHK-SZ Undergraduate Research Award
 * Keywords: *bio-inspired robot*, *flapping-wing aerial vehicle*, *aquatic-aerial hybrid locomotion*
 
