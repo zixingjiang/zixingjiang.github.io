@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This page is a streamlined CV. For more information, you may refer to the [detailed CV](/files/CV.pdf) (PDF).
+This page is a streamlined CV. For more information, you may refer to the [full CV](/files/CV.pdf) (PDF).
 
 ---
 
