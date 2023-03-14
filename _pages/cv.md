@@ -22,7 +22,7 @@ This page is a streamlined CV. For more information, you may refer to the [detai
 # Research experience
 * **Research Assistant.** March. 2023 - Present
   * Prof. Zhenglong Sun's Research Group, Robotics & AI Lab (RAIL), CUHK-SZ
-  * Research topic: *robot-assisted ultrasound imaging*
+  * Research topic: *robot-assisted ultrasound scanning*
   * Supervisor: Prof. Zhenglong SUN
 
 * **Research Assistant.** Sept. 2020 - Feb. 2023
