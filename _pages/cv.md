@@ -29,7 +29,7 @@ This page is a streamlined CV. For more information, you may refer to the [full 
 
 * **Research Assistant.** Sept. 2020 - Feb. 2023
   * Advanced Marine Robotics Group, RAIL, CUHK-SZ
-  * Research topic: *manipulator-assisted UAV landing, floating-based manipulator*
+  * Research topic: *manipulator-assisted UAV landing, floating-base manipulator*
   * Supervisor: Prof. Huihuan Alex QIAN
 
 ---
