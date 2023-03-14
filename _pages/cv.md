@@ -15,7 +15,9 @@ This page is a streamlined CV. For more information, you may refer to the [full 
 
 # Education
 
-* **B.Eng.** in Electronic Information Engineering, Computer Engineering stream, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ), 2023 (expected)
+* **B.Eng.** in Electronic Information Engineering, Computer Engineering stream
+  * The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
+  * Sept. 2019 - May 2023 (expected)
 
 ---
 
