@@ -7,7 +7,8 @@ excerpt: "Final year project at CUHK-SZ. **[Sept. 2022 - Dec. 2022]**<br/><img s
 
 {% include base_path %}
 
-* Final year project at RAIL Advanced Robotics Group, CUHK-SZ. *Sept. 2022 - Dec. 2022*
+* Final year project at RAIL Advanced Robotics Group, CUHK-SZ
+* Sept. 2022 - Dec. 2022
 * Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
 * Mentor: Mr. Ruoyu XU (doctoral postgraduate)
 * Keywords: *floating-base manipulator*, *object catching*, *motion prediction*
@@ -29,7 +30,19 @@ The goal of this object is to design a control framework that is capable to
 
 ## Methodology
 
+To reach the goal, a control framework consists of three policies are proposed.  
+
+- The first policy is *approach*. The purpose of this policy is to make the manipulator as close as possible to the target without collision, so as to reduce the difficulty of subsequent prediction and grasping. Fitting a minimal volume enclosing ellipsoid (MVEE) for sampled target position is utilized for this policy.
+
+- The second policy is *motion prediction*. This policy utilizes [wavelet network](https://ieeexplore.ieee.org/document/1461429) to learn the underlying motion pattern from historical target motion data and predict target's position at a certain future moment.
+
+- The third policy is *motion planning*. This policy utilizes LMA inverse kinematics and cubic polynomial trajectory generation to plan a grasping trajectory. The obtained trajectory is passed to the low-level joint PID controller for execution.  
+
+Here is an overview of the whole control framework. You may check the project [slides](/files/ERG4901_Slides_Zixing.pdf) to learn more about the details. 
+
 ![usv](/images/method.png)
+
+
 
 ## Results
 
@@ -47,8 +60,7 @@ And here is the complete video demo.
 
 ## Related
 
-- [Project presentation slides](/files/ERG4901_Slides_Zixing.pdf)
-- Another [project](/projects/precise_landing_of_unmanned_aerial_vehicle_on_disturbed_aquatic_surface_platforms/) related to manipulator-assisted UAV landing
+Another [project](/projects/precise_landing_of_unmanned_aerial_vehicle_on_disturbed_aquatic_surface_platforms/) related to manipulator-assisted UAV landing.
 
 
 

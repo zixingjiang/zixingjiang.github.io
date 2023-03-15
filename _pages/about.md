@@ -16,7 +16,7 @@ My research journey began in CUHK-SZ [Robotics & AI Lab](https://rail.cuhk.edu.c
 
 <!-- From an application perspective, *medical robotics* is particularly appealing to me because it is the pinnacle of robot precision manipulation and it meets my imagination of robots and humans living together in harmony. From a technical perspective, I am currently interested in *visual servoing* and *trajectory planning and force control of high degree-of-freedom serial/parallel/continuum manipulators*. -->
 
-:pushpin: I'm actively looking for a research-oriented postgraduate (PhD/MPhil) position in robotics. Please feel free to contact me if I get your interest!
+:pushpin: I'm actively looking for a research-oriented postgraduate (Ph.D./M.Phil.) position in robotics. Please feel free to contact me if I get your interest!
 
 <!-- # Working on
 - I plan to start a new project in robot-assisted medical imaging. Therefore I'm investigating relevant literature.
