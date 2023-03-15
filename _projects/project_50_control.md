@@ -54,8 +54,6 @@ And here is the complete video demo.
 
 <video src="/files/grasp_sim.mov" controls="controls" style="max-width: 769px;">
 </video>
-## Future work
-
 
 
 ## Related
