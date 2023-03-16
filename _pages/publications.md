@@ -15,6 +15,7 @@ Aquatic Surface Platform”, _2022 International Conference on Robotics and Auto
 Philadelphia, PA, USA. doi: 10.1109/ICRA46639.2022.9812270 [[View on IEEE Xplore]](https://ieeexplore.ieee.org/document/9812270)
 
 ## Patents
+
 **[1]** Chongfeng Liu, Zhongzhong Cao, **Zixing Jiang**, Rouyu Xu, Xiaoqiang Ji, and Huihuan
 Qian, “Landing System, Landing Method and Storage Medium for Unmanned Aerial
 Vehicle”, Chinese patent CN115167522A (initiative for examination as to substance)

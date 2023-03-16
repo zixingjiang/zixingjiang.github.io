@@ -1,23 +1,8 @@
-# This file defines the navigation bar at the top of the website
-
 # main links links
 main:
 
-  # - title: "About me"
-  #   url: /about/
-
-
-  #- title: "Talks"
-  #  url: /talks/    
-
-  #- title: "Teaching"
-  #  url: /teaching/    
-            
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
-  - title: "Curriculum Vitae"
-    url: /cv/
+  - title: "Research"
+    url: /research/
 
   - title: "Projects"
     url: /projects/
@@ -26,11 +11,7 @@ main:
     url: /publications/
 
   - title: "Posts"
-    url: /year-archive/
-
-  # - title: "Gallery"
-  #   url: /portfolio/
-
-
-  #- title: "Guide"
-  #  url: /markdown/
+    url: /posts/
+    
+  - title: "Curriculum Vitae"
+    url: /cv/

@@ -24,7 +24,7 @@ My research journey began in CUHK-SZ [Robotics & AI Lab](https://rail.cuhk.edu.c
 
 <!-- :pushpin: [My Curriculum Vitae](/cv/). :pushpin: [My previous and ongoing projects](/projects/). -->
 
-# News & Milestones
+# News & milestones
 - **[03.2023]** I moved to RAIL [Prof. Zhenglong Sun's Research Group](https://rail.cuhk.edu.cn/team/255) to try my hand at medical robotics.
 - **[12.2022]** I finished my [final year project](/projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/) at RAIL Advanced Marine Robotics Group and received a distinction grade.
 - **[05.2022]** A [conference paper](https://ieeexplore.ieee.org/document/9812270) I contributed (second author) was presented in IEEE ICRA 2022. The first academic publication I was involved in. 
