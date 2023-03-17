@@ -13,8 +13,6 @@ author_profile: true
 Aquatic Surface Platform</u>, _2022 International Conference on Robotics and Automation (ICRA)_,
 Philadelphia, PA, USA. doi: 10.1109/ICRA46639.2022.9812270 <a href="https://ieeexplore.ieee.org/document/9812270"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 
-<!-- [[View on IEEE Xplore]](https://ieeexplore.ieee.org/document/9812270) -->
-
 ## Patents
 
 - Chongfeng Liu, Zhongzhong Cao, **Zixing Jiang**, Rouyu Xu, Xiaoqiang Ji, and Huihuan
