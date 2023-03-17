@@ -10,9 +10,9 @@ redirect_from:
 
 <!-- :pushpin:  This Site is still under consturction! -->
 
-Welcome to my homepage! My name is Zixing JIANG, an undergraduate student in [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ). I'm working toward a B.Eng. degree in Electronic Information Engineering, Computer Engineering stream and expected to graduate in summer 2023.  
+Welcome! I'm Zixing, an undergraduate student in [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ). I'm working toward a B.Eng. degree in Electronic Information Engineering, Computer Engineering stream and expected to graduate in the summer of 2023. I have been serving as an undergraduate research assistant in CUHK-SZ [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL) since the fall of 2020. I'm currently working on *manipulator force control* and *robot-assisted ultrasound scanning* under the supervision of [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong). 
 
-My research journey began in CUHK-SZ [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL). I'm fortunate to have [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong) and [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan) to guide me in research and train my sense of science. I have a broad range of research interests in **Robotics**, **Robot-assisted Medical Procedures**, and **Human-Machine Interaction**. My philosophy is that *robots should live in harmony with human beings* and that *technology should be used to protect the weak*. Therefore, I'm particularly appealed in the application of robotics in healthcare and education. 
+
 
 <!-- From an application perspective, *medical robotics* is particularly appealing to me because it is the pinnacle of robot precision manipulation and it meets my imagination of robots and humans living together in harmony. From a technical perspective, I am currently interested in *visual servoing* and *trajectory planning and force control of high degree-of-freedom serial/parallel/continuum manipulators*. -->
 
@@ -28,7 +28,7 @@ My research journey began in CUHK-SZ [Robotics & AI Lab](https://rail.cuhk.edu.c
 - **[03.2023]** I moved to RAIL [Prof. Zhenglong Sun's Research Group](https://rail.cuhk.edu.cn/team/255) to try my hand at medical robotics.
 - **[12.2022]** I finished my [final year project](/projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/) at RAIL Advanced Marine Robotics Group and received a distinction grade.
 - **[05.2022]** A [conference paper](https://ieeexplore.ieee.org/document/9812270) I contributed (second author) was presented in IEEE ICRA 2022. The first academic publication I was involved in. 
-- **[11.2021]** I received a grant from CUHK-SZ Undergraduate Research Award, and try to handle a research project on my own for the first time.
+- **[11.2021]** I received a grant from CUHK-SZ Undergraduate Research Award, and try to handle a [research project](/projects/bio_inspired_aquatic_aerial_hybrid_locomotion_robot/) on my own for the first time.
 - **[09.2020]** I joined RAIL [Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260) as an undergraduate research assistant. My first attempt at research.
 - **[09.2019]** I joined RAIL Student Robotics Association. My first exposure to robotics.
 

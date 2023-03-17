@@ -2,7 +2,7 @@
 title: "Navigation of Service Robot"
 collection: projects
 permalink: /projects/navigation_of_service_robot/
-excerpt: "<br/><img src='image/navigation.gif' width='600px'>"
+excerpt: "<img src='image/navigation.gif' width='600px'>"
 ---
 
 {% include base_path %}

@@ -2,7 +2,7 @@
 title: "Precise Landing of Unmanned Aerial Vehicle on Disturbed Aquatic Surface Platforms"
 collection: projects
 permalink: /projects/precise_landing_of_unmanned_aerial_vehicle_on_disturbed_aquatic_surface_platforms/
-excerpt: "<br/><img src='image/landing.png' width='600px'>"
+excerpt: "<img src='image/landing.png' width='600px'>"
 ---
 
 {% include base_path %}

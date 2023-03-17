@@ -7,27 +7,29 @@ redirect_from:
   - /resume
 ---
 
+# Curriculum Vitae
+
 {% include base_path %}
 
-This page is a streamlined CV. For more information, you may refer to the [full CV](/files/CV.pdf) (PDF).
+This page is a streamlined CV. You can check the full CV (PDF) [here](/files/CV.pdf). 
 
 ---
 
 # Education
 
-* **B.Eng.** in Electronic Information Engineering, Computer Engineering stream
+* B.Eng. in Electronic Information Engineering, Computer Engineering stream
   * The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
   * Sept. 2019 - May 2023 (expected)
 
 ---
 
 # Research experience
-* **Research Assistant.** March. 2023 - Present
+* Research Assistant. (March. 2023 - Present)
   * Prof. Zhenglong Sun's Research Group, Robotics & AI Lab (RAIL), CUHK-SZ
   * Research topic: *robot-assisted ultrasound scanning*
   * Supervisor: Prof. Zhenglong SUN
 
-* **Research Assistant.** Sept. 2020 - Feb. 2023
+* Research Assistant. (Sept. 2020 - Feb. 2023)
   * Advanced Marine Robotics Group, RAIL, CUHK-SZ
   * Research topic: *manipulator-assisted UAV landing, floating-base manipulator*
   * Supervisor: Prof. Huihuan Alex QIAN
@@ -42,9 +44,9 @@ This page is a streamlined CV. For more information, you may refer to the [full 
 --- -->
 
 # Service and leadership
-* President of Student Robotics Association (SRA), RAIL, CUHK-SZ. Sept. 2020 - Feb. 2022
+* President of Student Robotics Association (SRA), RAIL, CUHK-SZ. (Sept. 2020 - Feb. 2022)
   * Responsible for the operation of SRA
-  * Delivered weekly tutorials to junior SRA members with fellow senior SRA members
+  * Delivered weekly tutorials to junior SRA members
 
 ---
 

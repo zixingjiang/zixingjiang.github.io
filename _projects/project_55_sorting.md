@@ -2,7 +2,7 @@
 title: "Intelligent Sorting with Eye-in-Hand Manipulator"
 collection: projects
 permalink: /projects/intelligent_sorting_with_eye_in_hand_manipulator/
-excerpt: "<br/><img src='image/sorting.gif' width='600px'>"
+excerpt: "<img src='image/sorting.gif' width='600px'>"
 ---
 
 {% include base_path %}

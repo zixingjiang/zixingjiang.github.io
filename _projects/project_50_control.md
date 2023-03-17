@@ -4,7 +4,7 @@ collection: projects
 toc: true
 modofied: false
 permalink: /projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/
-excerpt: "<br/><img src='image/grasp_sim.gif' width='600px'>"
+excerpt: "<img src='image/grasp_sim.gif' width='600px'>"
 ---
 
 {% include base_path %}
@@ -40,7 +40,7 @@ To reach the goal, a control framework consists of three policies are proposed.
 
 - The third policy is *motion planning*. This policy utilizes LMA inverse kinematics and cubic polynomial trajectory generation to plan a grasping trajectory. The obtained trajectory is passed to the low-level joint PID controller for execution.  
 
-Here is an overview of the whole control framework. You may check the project [slides](/files/ERG4901_Slides_Zixing.pdf) to learn more about the details. 
+Here is an overview of the whole control framework. You may check the [project slides](/files/ERG4901_Slides_Zixing.pdf) to learn more about the details. 
 
 ![usv](/images/method.png)
 
