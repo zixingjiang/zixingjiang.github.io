@@ -2,9 +2,9 @@
 title: "Control of the Multi-joint Manipulator for Grasping on Water Surface"
 collection: projects
 toc: true
-modofied: false
+date: 2023-03-08
 permalink: /projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/
-excerpt: "<img src='image/grasp_sim.gif' width='600px'>"
+excerpt: "_Final year project at RAIL Advanced Robotics Group, CUHK-SZ_<br><br><img src='image/grasp_sim.gif' width='600px'>"
 ---
 
 {% include base_path %}

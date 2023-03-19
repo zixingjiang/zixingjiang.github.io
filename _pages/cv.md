@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-This page is a streamlined CV. You can check the full CV (PDF) [here](/files/CV.pdf). 
+You can download a PDF copy of my CV [here](/files/CV.pdf). 
 
 ---
 
@@ -70,20 +70,7 @@ This page is a streamlined CV. You can check the full CV (PDF) [here](/files/CV.
 
 [My publications](/publications/). 
 
-<!-- 
-# Selected projects
-  <ul>{% for post in site.projects%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Test
 
-
----
-
-# Academic publication
-
-Notation: # equal contribution, * corresponding author
-<!-- (# denotes equal contribution, * denotes corresponding author) -->
-
-<!-- **[2022]** Chongfeng Liu, **Zixing Jiang**, Ruoyu Xu, Xiaoqiang Ji, Lianxin Zhang, and Huihuan Qian*, “Design and Optimization of a Magnetic Catch System for Precise UAV Landing on Disturbed Aquatic Surface Platform”, _2022 International Conference on Robotics and Automation (ICRA)_, Philadelphia, PA, USA. doi: 10.1109/ICRA46639.2022.9812270 --> 
 
 

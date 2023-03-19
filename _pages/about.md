@@ -10,13 +10,11 @@ redirect_from:
 
 <!-- :pushpin:  This Site is still under consturction! -->
 
-Welcome! I'm Zixing, an undergraduate student in [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ). I'm working toward a B.Eng. degree in Electronic Information Engineering, Computer Engineering stream and expected to graduate in the summer of 2023. I have been serving as an undergraduate research assistant in CUHK-SZ [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL) since the fall of 2020. I'm currently working on *manipulator force control* and *robot-assisted ultrasound scanning* under the supervision of [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong). 
-
-
+Welcome! I'm Zixing, a senior at [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-SZ) with a specialization in computer engineering (expected to graduate in summer 2023). I'm currently serving as an undergraduate research assistant in CUHK-SZ [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), working on **robot-assisted ultrasound scanning** under the supervision of [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong). 
 
 <!-- From an application perspective, *medical robotics* is particularly appealing to me because it is the pinnacle of robot precision manipulation and it meets my imagination of robots and humans living together in harmony. From a technical perspective, I am currently interested in *visual servoing* and *trajectory planning and force control of high degree-of-freedom serial/parallel/continuum manipulators*. -->
 
-:pushpin: I'm actively looking for a research-oriented postgraduate (Ph.D./M.Phil.) position in robotics. Please feel free to contact me if I get your interest!
+:pushpin: I'm actively looking for a research-oriented postgraduate (Ph.D./M.Phil.) position in robotics. Feel free to contact me if I get your interest!
 
 <!-- # Working on
 - I plan to start a new project in robot-assisted medical imaging. Therefore I'm investigating relevant literature.
