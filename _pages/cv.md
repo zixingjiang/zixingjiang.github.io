@@ -19,23 +19,23 @@ Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_
 
 # Education
 
-* B.Eng. in Electronic Information Engineering (Computer Engineering stream), _The Chinese University of Hong Kong, Shenzhen_ (CUHK-Shenzhen), Shenzhen, China, <u>Sept. 2019 - May. 2023 (expected)</u>
-
+* B.Eng. in Electronic Information Engineering (Computer Engineering stream), _**The Chinese University of Hong Kong, Shenzhen**_ (CUHK-Shenzhen), Shenzhen, China, <u>Sept. 2019 - May. 2023 (expected)</u>
+  * Core Curriculum: _Robotics and Intelligent Systems, Automatic Control Theory, Programming for Robotics, Image Processing and Computer Vision, Reinforcement Learning, Artificial Intelligence, Parallel Programming, Microprocessor Systems, Digital Logic, Signals and Systems, Optimization,_ etc
 
 ---
 
 # Research experience
 
-Research interests: _robotics, robot-assisted medical procedures, human-machine interaction_. 
+Research interests: _**robotics**, **robot-assisted medical procedures**, **human-machine interaction**_. 
 
-* Research Assistant, <u>March. 2023 - Present</u>
-  * Prof. Zhenglong Sun's Research Group at Robotics & AI Lab (RAIL), CUHK-Shenzhen
+* _**Research Assistant**_, <u>March. 2023 - Present</u>
+  * [Prof. Zhenglong Sun's Research Group](https://rail.cuhk.edu.cn/team/255) at Robotics & AI Lab (RAIL), CUHK-Shenzhen
   * Project: _robot-assisted ultrasound scanning_
   * Responsible for handling the research project 
   * Supervisor: [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong)
 
-* Research Assistant, <u>Sept. 2020 - Feb. 2023</u>
-  * Advanced Marine Robotics Group at RAIL, CUHK-Shenzhen
+* _**Research Assistant**_, <u>Sept. 2020 - Feb. 2023</u>
+  * [Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260) at RAIL, CUHK-Shenzhen
   * Project: _manipulator-assisted UAV landing, floating-base manipulator_
   * Responsible for robot programming, mechatronics design, assist in experiments, data analysis, and paper drafting
   * Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
@@ -62,36 +62,43 @@ Research interests: _robotics, robot-assisted medical procedures, human-machine 
 ---
 
 # Extracurricular activities
-* Donor of _Qingsi Xingdong_, <u>Dec. 2022</u>
+* _**Qingsi Xingdong**_
+  * _Donor_, <u>Dec. 2022</u>
   * Qingsi Xingdong is a non-profit charity organization founded by Chinese university students  that accepts donated hair, makes wigs, and distributes them free of charge to cancer patients undergoing chemotherapy
 
-* President of _Student Robotics Association_ (SRA) at Robotics & AI Lab, CUHK-Shenzhen, <u>Sept. 2020 - Feb. 2022</u>
-  * Responsible for the operation of SRA
-  * Delivered weekly tutorials to junior SRA members
+* _**Student Robotics Association**_ (SRA) at RAIL, CUHK-Shenzhen
+  * _Member_, <u>Sept. 2019 - Present</u>. _Precident_, <u>Sept. 2020 - Feb. 2022</u>
+  * Responsible for the operation of SRA during the presidency, including membership recruitment, assisting in holding RAIL briefings for SRA members, and bridging RAIL and CUHK-Shenzhen undergraduates
+  * Delivered weekly tutorials to junior SRA members with fellow senior SRA members during the presidency, covering _PID control, microcontroller programming, robot kinematics,_ and hands-on projects such as _building small unmanned sailboats_ and _small McNamee wheeled unmanned vehicles_
 
 ---
 
 # Competitions
+* _**DJI RoboMatser University AI Challenge**_ ([RMUA](https://www.robomaster.com/en-US/robo/icra)), <u>2021</u>
+  * Served as the leader of a 3-person robot perception team in the 9-person CUHK-Shenzhen RMUA varsity. Proposed and implemented a vehicle tracking system based on YOLO and KCF algorithms with the team, which can achieve about 80% tracking accuracy
 
+* _**Spark ROS Robotics Competition**_ at [RoboCom](https://www.robocom.com.cn/) World Robotics Developer Competition, <u>2020</u>
+  * Worked in a 5-person team. Programmed a robot to grab and place items according to the rules of the competition 
+  * Responsible for robot hardware debugging and robot programming based on ROS
 
 ___
 
 # Awards
-* _Final Year Project Distinction_, CUHK-Shenzhen, <u>2023</u>
-* 17th - 19th Round _Undergraduate Research Award_, CUHK-Shenzhen, <u>2021-2022</u>
-* Spark ROS Robotics Cometition, RoboCom World Robotics Developer Competition, <u>2020</u>
+* _**Final Year Project Distinction**_, CUHK-Shenzhen, <u>2023</u>
+* 17th - 19th Round _**Undergraduate Research Award**_, CUHK-Shenzhen, <u>2021-2022</u>
+* _**Spark ROS Robotics Competition**_ at RoboCom World Robotics Developer Competition, <u>2020</u>
   * _2nd Class Award of the team_ in Semi-Autonomous Competition, Guangdong Division
   * _3rd Class Award of the team_ in Autonomous Competition, Guangdong Division
 
 ___
 
 # Skills
-* **Languages:** Mandarin Chinese (native speaker), English
-* **Tasks:** robot programming, electronics design, mechanical design
-* **Algorithms:** manipulator control, trajectory planning, motion prediction, object detection
-* **Programming:**
-  * Frequently used: C/C++, Python, MATLAB, ROS
-  * Entry level: SQL, Verilog, VHDL
-* **Miscellaneous:** LaTeX, SolidWorks, Arduino, STM32
+* _**Languages:**_ Mandarin Chinese (native), English
+* _**Tasks:**_ robot programming, mechatronics design
+* _**Algorithms:**_ manipulator kinematics & dynamics, motion planning, object detection, motion prediction 
+* _**Programming:**_
+  * _Frequently used_: C/C++, Python, MATLAB, ROS
+  * _Introductory level_: SQL, Verilog, VHDL
+* _**Miscellaneous:**_ LaTeX, SolidWorks, Arduino, STM32
 
 
