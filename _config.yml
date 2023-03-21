@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zixing's Homepage"
+title                    : "Zixing JIANG"
 title_separator          : "-"
 name                     : &name "Zixing JIANG"
 description              : &description "Undergraduate at the Chinese University of Hong Kong, Shenzhen"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Zixing JIANG"
   avatar           : "zixing_profile.jpg"
-  bio              : "Undergratudate @ CUHK-SZ. Research Assistant @ RAIL."
+  bio              : "Senior @ CUHK-Shenzhen. Research Assistant @ RAIL."
   location         : "Shenzhen, China"
   employer         :
   pubmed           :

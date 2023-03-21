@@ -4,13 +4,13 @@ collection: projects
 toc: true
 date: 2023-03-08
 permalink: /projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/
-excerpt: "_Final year project at RAIL Advanced Robotics Group, CUHK-SZ_<br><br><img src='image/grasp_sim.gif' width='600px'>"
+excerpt: "_Final year project at RAIL Advanced Robotics Group, CUHK-Shenzhen. Sept. 2022 -- Dec. 2022_<br><br><img src='image/grasp_sim.gif' width='600px'>"
 ---
 
 {% include base_path %}
 
-* Final year project at RAIL Advanced Robotics Group, CUHK-SZ
-* Sept. 2022 - Dec. 2022
+* Final year project at RAIL Advanced Robotics Group, CUHK-Shenzhen
+* Sept. 2022 -- Dec. 2022
 * Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
 * Mentor: Mr. Ruoyu XU (doctoral postgraduate)
 * Keywords: *floating-base manipulator*, *object catching*, *motion prediction*

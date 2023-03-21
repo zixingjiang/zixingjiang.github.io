@@ -2,12 +2,12 @@
 title: "Intelligent Sorting with Eye-in-Hand Manipulator"
 collection: projects
 permalink: /projects/intelligent_sorting_with_eye_in_hand_manipulator/
-excerpt: "<img src='image/sorting.gif' width='600px'>"
+excerpt: "_Course project (individual) of ECE4310 Programming for Robotics at CUHK-Shenzhen. Spring 2022_<br><br><img src='image/sorting.gif' width='600px'>"
 ---
 
 {% include base_path %}
 
-- Course project (individual) of *ECE4310 Programming for Robotics, Spring 2022* at CUHK-SZ. 
+- Course project (individual) of *ECE4310 Programming for Robotics, Spring 2022* at CUHK-Shenzhen. 
 - Course Instructor: [Prof. Tin Lun LAM](https://sse.cuhk.edu.cn/en/faculty/tinlunlam)
 - Keywords: *manipulator*, *visual servoing*, *pick-and-place*
 
