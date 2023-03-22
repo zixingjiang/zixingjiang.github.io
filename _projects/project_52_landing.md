@@ -2,7 +2,7 @@
 title: "Precise Landing of Unmanned Aerial Vehicle on Disturbed Aquatic Surface Platforms"
 collection: projects
 permalink: /projects/precise_landing_of_unmanned_aerial_vehicle_on_disturbed_aquatic_surface_platforms/
-excerpt: "_Research project involved (collabrate with a doctoral postgradaute) at RAIL Advanced Robotics Group, CUHK-Shenzhen. Sept.2020 -- Sept.2021_<br><br><img src='image/landing.png' width='600px'>"
+excerpt: "_Research project involved (collabrate with a doctoral postgradaute) at RAIL Advanced Robotics Group, CUHK-Shenzhen. <u>Sept.2020 - Sept.2021</u>_<br><br><img src='image/landing.png' width='600px'>"
 ---
 
 {% include base_path %}

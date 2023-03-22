@@ -26,7 +26,7 @@ Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_
 
 # Research experience
 
-Research interests: _**robotics**, **robot-assisted medical procedures**, **human-machine interaction**_. 
+Research interests: _**robotics**, **robot-assisted medical procedures**, **human-machine interaction**_
 
 * _**Research Assistant**_, <u>March. 2023 - Present</u>
   * [Prof. Zhenglong Sun's Research Group](https://rail.cuhk.edu.cn/team/255) at Robotics & AI Lab (RAIL), CUHK-Shenzhen

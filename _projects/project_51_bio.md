@@ -2,7 +2,7 @@
 title: "Bio-inspired Aquatic-Aerial Hybrid Locomotion Robot"
 collection: projects
 permalink: /projects/bio_inspired_aquatic_aerial_hybrid_locomotion_robot/
-excerpt: "_Research project supported by CUHK-Shenzhen Undergraduate Research Award. Nov. 2021 -- Oct. 2022_<br><br><img src='image/bio.png' width='600px'>"
+excerpt: "_Research project supported by CUHK-Shenzhen Undergraduate Research Award. <u>Nov. 2021 - Oct. 2022</u>_<br><br><img src='image/bio.png' width='600px'>"
 ---
 
 {% include base_path %}

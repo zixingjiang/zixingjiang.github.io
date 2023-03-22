@@ -2,7 +2,7 @@
 title: "Intelligent Sorting with Eye-in-Hand Manipulator"
 collection: projects
 permalink: /projects/intelligent_sorting_with_eye_in_hand_manipulator/
-excerpt: "_Course project (individual) of ECE4310 Programming for Robotics at CUHK-Shenzhen. Spring 2022_<br><br><img src='image/sorting.gif' width='600px'>"
+excerpt: "_Course project (individual) of ECE4310 Programming for Robotics at CUHK-Shenzhen. <u>Spring 2022</u>_<br><br><img src='image/sorting.gif' width='600px'>"
 ---
 
 {% include base_path %}
