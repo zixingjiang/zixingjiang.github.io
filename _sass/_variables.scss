@@ -65,6 +65,7 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
+// $info-color                 : #3b5998;
 $info-color                 : #3b5998;
 
 /* brands */
@@ -95,7 +96,8 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $info-color;
-$link-color-hover           : #52adc8;
+// $link-color-hover           : #52adc8;
+$link-color-hover           : $info-color;
 $link-color-visited         : #681da8;
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
