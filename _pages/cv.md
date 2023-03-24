@@ -33,7 +33,7 @@ Research interests: _**robotics**, **robot-assisted medical procedures**, **huma
   * Project: _robot-assisted ultrasound scanning_
   * Responsible for handling the research project 
   * Supervisor: [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong)
-
+  
 * _**Research Assistant**_, <u>Sept. 2020 - Feb. 2023</u>
   * [Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260) at RAIL, CUHK-Shenzhen
   * Project: _manipulator-assisted UAV landing, floating-base manipulator_
