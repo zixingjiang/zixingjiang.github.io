@@ -24,7 +24,7 @@ Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_
 
 ---
 
-# Research experience
+# Research Experience
 
 Research interests: _**robotics**, **robot-assisted medical procedures**, **human-machine interaction**_
 
@@ -61,7 +61,7 @@ Research interests: _**robotics**, **robot-assisted medical procedures**, **huma
 
 ---
 
-# Extracurricular activities
+# Extracurricular Activities
 * _**Qingsi Xingdong**_
   * _Donor_, <u>Dec. 2022</u>
   * Qingsi Xingdong is a non-profit charity organization founded by Chinese university students  that accepts donated hair, makes wigs, and distributes them free of charge to cancer patients undergoing chemotherapy

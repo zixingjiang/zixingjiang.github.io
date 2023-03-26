@@ -7,7 +7,7 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-# Research
+<!-- # Research -->
 
 > What I cannot create, I do not understand. --- Richard Feynman
 

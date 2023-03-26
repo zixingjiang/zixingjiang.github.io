@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "Welcome to Zixing's homepage!"
 author_profile: true
 redirect_from: 
@@ -10,11 +10,9 @@ redirect_from:
 
 <!-- :pushpin:  This Site is still under consturction! -->
 
-Welcome! I'm a senior undergraduate at [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-Shenzhen), with a specialization in computer engineering (expected graduation: summer 2023). I'm currently serving as an undergraduate research assistant in CUHK-Shenzhen [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), working on _**robot-assisted ultrasound scanning**_ under the supervision of [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong). 
+Welcome! I'm a senior undergraduate at [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-Shenzhen), with a specialization in computer engineering (expected graduation: summer 2023). I'm currently serving as an undergraduate research assistant in CUHK-Shenzhen [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), working on [robot-assisted ultrasound scanning](/projects/robot_assisted_ultrasound_scanning/) under the supervision of [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong). 
 
 <!-- From an application perspective, *medical robotics* is particularly appealing to me because it is the pinnacle of robot precision manipulation and it meets my imagination of robots and humans living together in harmony. From a technical perspective, I am currently interested in *visual servoing* and *trajectory planning and force control of high degree-of-freedom serial/parallel/continuum manipulators*. -->
-
-:pushpin: I'm actively looking for a research-oriented postgraduate (Ph.D./M.Phil.) position in robotics. Feel free to [contact me](mailto:119010130@link.cuhk.edu.cn) if I get your interest!
 
 <!-- # Working on
 - I plan to start a new project in robot-assisted medical imaging. Therefore I'm investigating relevant literature.
@@ -22,7 +20,9 @@ Welcome! I'm a senior undergraduate at [School of Science and Engineering](https
 
 <!-- :pushpin: [My Curriculum Vitae](/cv/). :pushpin: [My previous and ongoing projects](/projects/). -->
 
-# News & milestones
+:pushpin: I'm actively looking for a research-oriented postgraduate (Ph.D./M.Phil.) position in robotics. Feel free to [contact me](mailto:119010130@link.cuhk.edu.cn) if I get your interest!
+
+# News & Milestones
 - **03.2023:**&nbsp; I moved to RAIL [Prof. Zhenglong Sun's Research Group](https://rail.cuhk.edu.cn/team/255) to try my hand at medical robotics.
 - **12.2022:**&nbsp; I finished my [final year project](/projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/) at RAIL Advanced Marine Robotics Group and received a distinction grade.
 - **05.2022:**&nbsp; A [conference paper](https://ieeexplore.ieee.org/document/9812270) I contributed (second author) was presented in IEEE ICRA 2022. The first academic publication I was involved in. 

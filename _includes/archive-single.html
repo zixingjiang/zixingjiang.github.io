@@ -12,6 +12,14 @@
   {% assign title = post.title %}
 {% endif %}
 
+<style>
+  .my-text {
+      font-size: 1.2em; /* this will be the same size as h3 */
+      /* add any other styles you want */
+  }
+</style>
+
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -26,7 +34,7 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <div class="my-text"><b class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications' %}
         {{ title }}
       {% elsif post.link %}
@@ -34,7 +42,7 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2>
+    </b></div>
     
     {% if post.read_time %}
     {% elsif post.read_time and post.collection == 'posts' %}
@@ -99,5 +107,6 @@
       </p>
     {% endif %}
     
+    <hr>
   </article>
 </div>
