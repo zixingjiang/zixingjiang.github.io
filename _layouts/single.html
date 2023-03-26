@@ -41,7 +41,7 @@ layout: default
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date and page.read_time %}
           <p class="page__date">
-            <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Last updated: <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y"}}&nbsp&nbsp&nbsp</time>
+            <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <b>Last updated:</b> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y"}}&nbsp&nbsp&nbsp</time>
             <i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}
           </p>
         {% elsif page.date %}

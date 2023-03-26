@@ -2,7 +2,9 @@
 title: "Manipulator Assembly and Kinematics Control"
 collection: projects
 permalink: /projects/manipulator_assembly_and_kinematics_control/
-excerpt: "_Course project (2-person team, dominant contribution) of CIE6107 Robotics and Intelligent Systems at CUHK-Shenzhen. <u>Fall 2022</u>_<br><br><img src='image/arm.png' width='600px'>"
+period: Fall 2022
+abstract: Course project (2-person team, dominant contribution) of CIE6107 Robotics and Intelligent Systems at CUHK-Shenzhen.
+excerpt: "<img src='image/arm.png' width='600px'>"
 course: true
 ---
 

@@ -2,7 +2,9 @@
 title: "Navigation of Service Robot"
 collection: projects
 permalink: /projects/navigation_of_service_robot/
-excerpt: "_Course project (individual) of ECE4310 Programming for Robotics at CUHK-Shenzhen. <u>Spring 2022</u>_<br><br><img src='image/navigation.gif' width='600px'>"
+period: Spring 2022
+abstract: Course project (individual) of ECE4310 Programming for Robotics at CUHK-Shenzhen. 
+excerpt: "<img src='image/navigation.gif' width='600px'>"
 course: true
 ---
 
