@@ -5,7 +5,7 @@ toc: true
 date: 2023-03-08
 permalink: /projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/
 period: Sept. 2022 - Dec. 2022
-abstract: This project is my final year project at RAIL Advanced Marine Robotics Group, CUHK-Shenzhen. This project aims to  
+abstract: This was my final year project at CUHK-Shenzhen, supervised by Prof. Huihuan Alex QIAN from RAIL Advanced Marine Robotics Group. This project aimed to make a manipulator capable of grasping objects on the restless water surface. To reach this goal, a predictive control framework was proposed. The proposed framework was verified with MATLAB Simscape simulation.
 excerpt: "<img src='image/grasp_sim.gif' width='600px'>"
 course: false
 ---

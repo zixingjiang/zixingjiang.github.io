@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- :pushpin:  This Site is still under consturction! -->
 
-Welcome! I'm a senior undergraduate at [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-Shenzhen), with a specialization in computer engineering (expected graduation: summer 2023). I'm currently serving as an undergraduate research assistant in CUHK-Shenzhen [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), working on [robot-assisted ultrasound scanning](/projects/robot_assisted_ultrasound_scanning/) under the supervision of [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong). 
+Welcome! I'm a senior undergraduate at [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-Shenzhen), with a specialization in computer engineering (expected graduation: summer 2023). I'm currently serving as an undergraduate research assistant in CUHK-Shenzhen [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), working on [robot-assisted ultrasound examination](/projects/robot_assisted_ultrasound_examination/) under the supervision of [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong). 
 
 <!-- From an application perspective, *medical robotics* is particularly appealing to me because it is the pinnacle of robot precision manipulation and it meets my imagination of robots and humans living together in harmony. From a technical perspective, I am currently interested in *visual servoing* and *trajectory planning and force control of high degree-of-freedom serial/parallel/continuum manipulators*. -->
 

@@ -7,7 +7,7 @@ toc: true
 ---
 <!-- # Selected Projects -->
 
-Here is a showcase of some of my previous and ongoing projects. 
+Here is a showcase of some of my previous and ongoing projects. You can view the project profiles through the links. Please note that this page is not updated frequently. If you want to keep track of my latest activities, you may check my [GitHub](https://github.com/zixingjiang).
 
 <!-- Here I list some of my previous and ongoing projects. You can view the project profiles via the links. _PS: The project list may not always be up to date as I usually put projects here after I get a demo_.
 
@@ -36,10 +36,4 @@ Here is a showcase of some of my previous and ongoing projects.
   {% endif %}
 {% endfor %}
 
-<!-- <nbsp>
-
-{% assign ordered_pages = site.projects | sort:"order_number" %}
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %} -->
+## Toy Projects
