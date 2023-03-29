@@ -12,21 +12,15 @@ redirect_from:
 
 Welcome! I'm a senior undergraduate at [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-Shenzhen), with a specialization in computer engineering (expected graduation: summer 2023). I'm currently serving as an undergraduate research assistant in CUHK-Shenzhen [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL), working on [robot-assisted ultrasound examination](/projects/robot_assisted_ultrasound_examination/) under the supervision of [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong). 
 
-<!-- From an application perspective, *medical robotics* is particularly appealing to me because it is the pinnacle of robot precision manipulation and it meets my imagination of robots and humans living together in harmony. From a technical perspective, I am currently interested in *visual servoing* and *trajectory planning and force control of high degree-of-freedom serial/parallel/continuum manipulators*. -->
-
-<!-- # Working on
-- I plan to start a new project in robot-assisted medical imaging. Therefore I'm investigating relevant literature.
-- As the closing of my work in RAIL [Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260), I'm working with a doctoral postgraduate to make improvements based on my [final year project](/projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/). We hope to achieve a meaningful result and publish it in an academic journal.  -->
-
-<!-- :pushpin: [My Curriculum Vitae](/cv/). :pushpin: [My previous and ongoing projects](/projects/). -->
+:smiley: [To know more about me](/posts/2023/03/to_know_more_about_me/).&nbsp;&nbsp;&nbsp; :page_facing_up: [My Curriculum Vitae](/cv/).&nbsp;&nbsp;&nbsp; :rocket: [My projects](/projects/).
 
 :pushpin: I'm actively looking for a research-oriented postgraduate (Ph.D./M.Phil.) position in robotics. Feel free to [contact me](mailto:119010130@link.cuhk.edu.cn) if I get your interest!
 
 # News & Milestones
 - **03.2023:**&nbsp; I moved to RAIL [Prof. Zhenglong Sun's Research Group](https://rail.cuhk.edu.cn/team/255) to try my hand at medical robotics.
-- **12.2022:**&nbsp; I finished my [final year project](/projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/) at RAIL Advanced Marine Robotics Group and received a distinction grade.
+- **12.2022:**&nbsp; I completed my [final year project](/projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/) at RAIL Advanced Marine Robotics Group with distinction.
 - **05.2022:**&nbsp; A [conference paper](https://ieeexplore.ieee.org/document/9812270) I contributed (second author) was presented in IEEE ICRA 2022. The first academic publication I was involved in. 
-- **11.2021:**&nbsp; I received a grant from CUHK-Shenzhen Undergraduate Research Award, and try to handle a [research project](/projects/bio_inspired_aquatic_aerial_hybrid_locomotion_robot/) on my own for the first time.
+- **11.2021:**&nbsp; My first attempt to handle a [research project](/projects/bio_inspired_aquatic_aerial_hybrid_locomotion_robot/) myself with the support of the Undergraduate Research Award of CUHK-Shenzhen.
 - **09.2020:**&nbsp; I joined RAIL [Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260) as an undergraduate research assistant. My first attempt at research.
 -  **09.2019:**&nbsp; I joined RAIL Student Robotics Association. My first exposure to robotics.
 
@@ -57,3 +51,9 @@ To know more about me:
 ![my bike](image/about/bike.jpg)
 
 - This site is powered by [AcademicPages](https://academicpages.github.io/). If you want a site like mine, you may refer to AcademicPages' [official repository](https://github.com/academicpages/academicpages.github.io) and [this post](https://jayrobwilliams.com/posts/2020/06/academic-website/), which helped me a lot when I built this site.  -->
+
+<!-- From an application perspective, *medical robotics* is particularly appealing to me because it is the pinnacle of robot precision manipulation and it meets my imagination of robots and humans living together in harmony. From a technical perspective, I am currently interested in *visual servoing* and *trajectory planning and force control of high degree-of-freedom serial/parallel/continuum manipulators*. -->
+
+<!-- # Working on
+- I plan to start a new project in robot-assisted medical imaging. Therefore I'm investigating relevant literature.
+- As the closing of my work in RAIL [Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260), I'm working with a doctoral postgraduate to make improvements based on my [final year project](/projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/). We hope to achieve a meaningful result and publish it in an academic journal.  -->

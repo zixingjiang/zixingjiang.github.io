@@ -1,7 +1,6 @@
 # main links links
 main:
 
-
   - title: "Research"
     url: /research/
 
@@ -11,8 +10,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Posts"
+  - title: "Blog Posts"
     url: /posts/
-    
+
   - title: "Curriculum Vitae"
     url: /cv/
