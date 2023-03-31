@@ -76,7 +76,7 @@ layout: default
         {% endif %}
         {{ content }}
         {% if page.collection == 'posts'%}
-          <br><br>Last updated: <time datetime="{{ post.updated | default: "1900-01-01" | date_to_xmlschema }}">{{ page.updated | default: "1900-01-01" | date: "%B %d, %Y"}}</time>.
+          <br><br>(Last updated: <time datetime="{{ post.updated | default: "1900-01-01" | date_to_xmlschema }}">{{ page.updated | default: "1900-01-01" | date: "%B %d, %Y"}}</time>)
         {% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
