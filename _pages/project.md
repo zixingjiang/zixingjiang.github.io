@@ -36,4 +36,6 @@ Here is a showcase of some of my previous and ongoing projects. You can view the
   {% endif %}
 {% endfor %}
 
-## Toy Projects
+## Toy Project
+
+I'm currently working on a codebase focusing on basic robotics algorithms. Reference: [PyhtonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
