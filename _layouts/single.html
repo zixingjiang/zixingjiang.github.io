@@ -40,10 +40,17 @@ layout: default
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date and page.read_time %}
+          {% if page.collection == 'posts'%}
           <p class="page__date">
-            <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <b>Last updated:</b> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y"}}</time>&nbsp;&nbsp;&nbsp;
+            <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <b>Published:</b> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y"}}</time>&nbsp;&nbsp;&nbsp;
             <i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}
           </p>
+          {% elsif page.collection == 'projects'%}
+          <p class="page__date">
+            <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <b>Last updated:</b> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y"}}</time>&nbsp;&nbsp;&nbsp;
+            <i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}<br>
+          </p>
+          {% endif %}
         {% elsif page.date %}
           <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -68,6 +75,9 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
+        {% if page.collection == 'posts'%}
+          <br><br>Last updated: <time datetime="{{ post.updated | default: "1900-01-01" | date_to_xmlschema }}">{{ page.updated | default: "1900-01-01" | date: "%B %d, %Y"}}</time>.
+        {% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
