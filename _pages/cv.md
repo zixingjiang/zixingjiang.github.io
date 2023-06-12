@@ -13,7 +13,7 @@ date: 2023-03-21
 
 {% include base_path %}
 
-Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y"}}</time></u>. You can download a PDF copy of my CV [here](/files/CV.pdf). 
+Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y"}}</time></u>. [Click to download the PDF version](/files/CV.pdf). 
 
 ---
 
