@@ -13,40 +13,38 @@ date: 2023-03-21
 
 {% include base_path %}
 
-Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y"}}</time></u>. [Click to download the PDF version](/files/CV.pdf). 
+Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y"}}</time></u>. [Click to download the PDF version](/files/CV-Zixing.pdf). 
 
 ---
 
 # Education
 
-* B.Eng. in Electronic Information Engineering (Computer Engineering stream), _**The Chinese University of Hong Kong, Shenzhen**_ (CUHK-Shenzhen), Shenzhen, China, <u>Sept. 2019 - May. 2023 (expected)</u>
+* B.Eng. in Electronic Information Engineering (Computer Engineering stream), _**The Chinese University of Hong Kong, Shenzhen**_ (CUHK-Shenzhen), Shenzhen, China, <u>Sept. 2019 - May. 2023</u>
   * Core Curriculum: _Robotics and Intelligent Systems, Automatic Control Theory, Programming for Robotics, Image Processing and Computer Vision, Reinforcement Learning, Artificial Intelligence, Parallel Programming, Microprocessor Systems, Digital Logic, Signals and Systems, Optimization,_ etc
 
 ---
 
 # Research Experience
 
-Research interests: _**robotics**, **robot-assisted medical procedures**, **human-machine interaction**_
+Research interests: _**robotics**, **robot-assisted medical procedures**, **human-in-the-loop system**, **bio-inspired robot**_
 
 * _**Research Assistant**_, <u>March. 2023 - Present</u>
   * [Prof. Zhenglong Sun's Research Group](https://rail.cuhk.edu.cn/team/255) at Robotics & AI Lab (RAIL), CUHK-Shenzhen
-  * Project: _robot-assisted ultrasound scanning_
-  * Responsible for handling the research project 
-  * Supervisor: [Prof. Zhenglong SUN](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong)
+  * Project: _robot-assisted ultrasound examination_
+  * Responsible for developing an autonomous ultrasound examination (thyroid and breast) robot based on Universal Robot UR5e platform
+  * Supervisor: [Prof. Zhenglong Sun](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong)
   
 * _**Research Assistant**_, <u>Sept. 2020 - Feb. 2023</u>
   * [Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260) at RAIL, CUHK-Shenzhen
   * Project: _manipulator-assisted UAV landing, floating-base manipulator_
-  * Responsible for robot programming, mechatronics design, assist in experiments, data analysis, and paper drafting
-  * Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
+  * Responsible for building robot prototypes (mechanical design, electronics design, and robot programming), conducting experiments and drafting research papers
+  * Supervisor: [Prof. Huihuan Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
 
-<!-- Accomplishments are listed in [projects](#projects) and [publications](#publications). -->
-
-<!-- # Research interests
-* Robotics: design, perception, planning, and control
-* Robot-assisted Medical Procedures
-* Human-Machine Interaction: collaborative robots, prosthesis, etc
---- -->
+* _**Undergraduate Research Award (URA) Awardee**_, <u>Nov. 2021 - Oct. 2022</u>
+  * School of Science and Engineering, CUHK-Shenzhen
+  * Project: _Bio-inspired Aquatic-Aerial Hybrid Locomotion Robot_
+  * Built a kingfisher-inspired flapping-wing robot prototype
+  * Advisors: [Prof. Zhenglong Sun](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong), [Prof. Xiaoqiang Ji](https://sse.cuhk.edu.cn/en/teacher/1068)[Prof. Huihuan Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
 
 ---
 
@@ -97,8 +95,7 @@ ___
 * _**Tasks:**_ robot programming, mechatronics design
 * _**Algorithms:**_ manipulator kinematics & dynamics, motion planning, object detection, motion prediction 
 * _**Programming:**_
-  * _Frequently used_: C/C++, Python, MATLAB, ROS
+  * _Frequently used_: C/C++, Python, ROS
   * _Introductory level_: SQL, Verilog, VHDL
-* _**Miscellaneous:**_ LaTeX, SolidWorks, Arduino, STM32
-
+* _**Miscellaneous:**_ LaTeX, SolidWorks, MATLAB, Arduino, STM32
 
