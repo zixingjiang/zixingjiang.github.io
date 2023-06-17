@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 redirect_from:
   - /resume
-date: 2023-03-21
+date: 2023-06-17
 ---
 
 <!-- # Curriculum Vitae -->
@@ -44,7 +44,7 @@ Research interests: _**robotics**, **robot-assisted medical procedures**, **huma
   * School of Science and Engineering, CUHK-Shenzhen
   * Project: _Bio-inspired Aquatic-Aerial Hybrid Locomotion Robot_
   * Built a kingfisher-inspired flapping-wing robot prototype
-  * Advisors: [Prof. Zhenglong Sun](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong), [Prof. Xiaoqiang Ji](https://sse.cuhk.edu.cn/en/teacher/1068)[Prof. Huihuan Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
+  * Advisors: [Prof. Zhenglong Sun](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong), [Prof. Xiaoqiang Ji](https://sse.cuhk.edu.cn/en/teacher/1068), [Prof. Huihuan Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
 
 ---
 
