@@ -49,13 +49,13 @@ Research interests: _**robotics**, **robot-assisted medical procedures**, **huma
 ---
 
 # Projects
-* [My previous and ongoing projects](/projects/). 
+* [My previous and ongoing projects](/projects/)
 
 ---
 
 # Publications
 
-* [My publications](/publications/). 
+* [My publications](/publications/)
 
 ---
 
