@@ -75,7 +75,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : flase # "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : 
   goatcounter:
