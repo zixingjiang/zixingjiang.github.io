@@ -12,10 +12,10 @@ course: false
 
 {% include base_path %}
 
-* Final year project at RAIL Advanced Robotics Group, CUHK-Shenzhen
+* Final year project at CUHK-Shenzhen. Completed with distinction. 
 * Sept. 2022 -- Dec. 2022
-* Supervisor: [Prof. Huihuan Alex QIAN](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
-* Co-supervisor: [Ruoyu XU](https://xuruoyuroy.github.io/) (Ph.D. Candidate)
+* Supervisor: [Prof. Huihuan Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
+* Project Mentor: [Ruoyu Xu](https://xuruoyuroy.github.io/) (Ph.D. Candidate)
 * Keywords: *floating-base manipulator*, *object catching*, *motion prediction*
 
 ## Background & Motivation
@@ -63,7 +63,7 @@ And here is the complete video demo.
 
 ## Related
 
-Another [project](/projects/precise_landing_of_unmanned_aerial_vehicle_on_disturbed_aquatic_surface_platforms/) related to manipulator-assisted UAV landing.
+Another [project](/projects/precise_landing_of_uav_on_disturbed_aquatic_surface_platforms/) related to manipulator-assisted UAV landing.
 
 
 

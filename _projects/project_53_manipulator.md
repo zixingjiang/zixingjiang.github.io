@@ -6,6 +6,7 @@ period: Fall 2022
 abstract: This is a two-person team course project for <i>CIE6107 Robotics and Intelligence Systems, Fall 2022</i> at CUHK-Shenzhen. In this project we assembled a 5-DoF manipulator from parts and derived the robot kinematics from scratch. We utilized the derived kinematics to control a robotic arm to perform simple tasks such as grasping and placing objects.
 excerpt: "<img src='image/arm.png' width='600px'>"
 course: true
+date: 2023-01-05
 ---
 
 {% include base_path %}
