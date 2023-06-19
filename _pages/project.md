@@ -7,7 +7,7 @@ toc: true
 ---
 <!-- # Selected Projects -->
 
-Here is a showcase of some of my previous and ongoing projects. You can view the project profiles through the links. I may not update this page very often. If you want to keep track of my latest activities, you may check my [GitHub](https://github.com/zixingjiang).
+Here is a showcase of some of my previous and ongoing projects. You can view the project profiles through the links. I may not update this page very often. So if you want to keep track of my latest activities, you may check my [GitHub](https://github.com/zixingjiang).
 
 <!-- Please note that this page is not updated frequently. If you want to keep track of my latest activities, you may check my [GitHub](https://github.com/zixingjiang). -->
 
@@ -40,4 +40,4 @@ Here is a showcase of some of my previous and ongoing projects. You can view the
 
 ## Toy Project
 
-For learning purpose, I'm currently working on a codebase focusing on basic robotics algorithms. Reference: [PyhtonRobotics](https://github.com/AtsushiSakai/PythonRobotics).
+For learning purpose, I'm currently working on a codebase focusing on basic robotics algorithms. Reference: [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics).

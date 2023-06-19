@@ -13,7 +13,7 @@ date: 2023-06-17
 
 {% include base_path %}
 
-Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y"}}</time></u>. [Click to download the PDF version](/files/CV-Zixing.pdf). 
+Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y"}}</time></u>. [Click to download PDF](/files/CV-Zixing.pdf). 
 
 ---
 
@@ -66,8 +66,8 @@ Research interests: _**robotics**, **robot-assisted medical procedures**, **huma
 
 * _**Student Robotics Association**_ (SRA) at RAIL, CUHK-Shenzhen
   * _Member_, <u>Sept. 2019 - Present</u>. _Precident_, <u>Sept. 2020 - Feb. 2022</u>
-  * Responsible for the operation of SRA during the presidency, including membership recruitment, assisting in holding RAIL briefings for SRA members, and bridging RAIL and CUHK-Shenzhen undergraduates
-  * Delivered weekly tutorials to junior SRA members with fellow senior SRA members during the presidency, covering _PID control, microcontroller programming, robot kinematics,_ and hands-on projects such as _building small unmanned sailboats_ and _small McNamee wheeled unmanned vehicles_
+  * Student Robotics Association (SRA) was held by Prof. Huihuan Alex Qian in RAIL, CUHK-Shenzhen. Aiming to bridge CUHK-Shenzhen undergraduates and RAIL, it offers robotic training and hands-on projects for incoming undergrad students to get prepared for research activities before joining the lab
+  * During my presidency, I coordinated fellow junior SRA members to recruit new members, holding RAIL briefings, deliver weekly tutorials (PID control, microcontroller programming, and robot kinematics) and mentor new SRA members to complete hands-on projects (unmanned sailboats and unmanned McNamee wheeled vehicles). We successfully recruited more than 30 members and over a half of them managed to start working at the lab
 
 ---
 
