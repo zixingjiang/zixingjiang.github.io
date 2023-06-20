@@ -6,7 +6,7 @@ period: Spring 2022
 abstract: "This is an individual course project for <i>ECE4310 Programming for Robotics, Spring 2022</i> at CUHK-Shenzhen. In this project, I programmed a 6-DoF eye-in-hand manipulator with ROS to perform an intelligent sorting task: place small blocks into buckets of the same color as them. "
 excerpt: "<img src='image/sorting.gif' width='600px'>"
 course: true
-date: 2022-04-12
+date: 2022-04-13
 ---
 
 {% include base_path %}

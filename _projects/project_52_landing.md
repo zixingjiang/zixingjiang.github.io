@@ -3,7 +3,7 @@ title: "Precise Landing of UAV on Disturbed Aquatic Surface Platforms"
 collection: projects
 permalink: /projects/precise_landing_of_uav_on_disturbed_aquatic_surface_platforms/
 period: Sept. 2020 - Sept. 2021
-abstract: This is a research project I was involved in at RAIL Advanced Marine Robotics Group. This project developed a novel tethered landing method that makes the UAV capable of landing on a small disturbed platform. This project also designed a capture system to implement the proposed tethered landing method.  
+abstract: <b>Research project participated @ CUHK-Shenzhen RAIL</b>. This project developed a novel tethered landing method that makes the UAV capable of landing on a small disturbed platform. This project also designed a capture system to implement the proposed tethered landing method.  
 excerpt: "<img src='image/landing.png' width='600px'>"
 course: false
 date: 2022-10-05

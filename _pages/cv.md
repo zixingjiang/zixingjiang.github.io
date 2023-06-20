@@ -60,9 +60,9 @@ Research interests: _**robotics**, **robot-assisted medical procedures**, **huma
 ---
 
 # Extracurricular Activities
-* _**Qingsi Xingdong (青丝行动)**_
-  * _Donor_, <u>Dec. 2022</u>
-  * Qingsi Xingdong is a non-profit charity organization founded by Chinese university students  that accepts donated hair, makes wigs, and distributes them free of charge to cancer patients undergoing chemotherapy
+* _**Qingsi Xingdong**_ **(青丝行动)**
+  * _Hair Donor_, <u>Dec. 2022</u>
+  * Qingsi Xingdong is a non-profit charity organization founded by Chinese university students that accepts donated hair, makes wigs, and distributes them free of charge to cancer patients undergoing chemotherapy
 
 * _**Student Robotics Association**_ (SRA) at RAIL, CUHK-Shenzhen
   * _Member_, <u>Sept. 2019 - Present</u>. _Precident_, <u>Sept. 2020 - Feb. 2022</u>
