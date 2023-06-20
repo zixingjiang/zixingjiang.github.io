@@ -16,7 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zixingjiang/zixingjiang.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 100
 future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -88,7 +88,7 @@ author:
   avatar           : "zixing_profile.jpg"
   bio              : "Research Assistant @ RAIL, CUHKSZ-Shenzhen."
   location         : "Shenzhen, China"
-  employer         :
+  employer         : # "RAIL, CUHK-SZ"
   pubmed           :
   orcid            : 
   googlescholar    : 
@@ -113,7 +113,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
-  steam            :
+  steam            : # "76561199110929277"
   tumblr           :
   twitter          : 
   vine             :
