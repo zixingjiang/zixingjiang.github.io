@@ -3,7 +3,7 @@ title: "Control of the Multi-joint Manipulator for Grasping on Water Surface"
 collection: projects
 toc: true
 date: 2023-03-08
-permalink: /projects/control_of_the_multi_joint_manipulator_for_grasping_on_water_surface/
+permalink: /projects/floating-manipulator/
 period: Sept. 2022 - Dec. 2022
 abstract: <b>Final year project @ CUHK-Shenzhen</b>. This project aimed to make a manipulator capable of grasping objects on the restless water surface. To reach this goal, a predictive control framework was proposed. The proposed framework was verified with MATLAB Simscape simulation.
 excerpt: "<img src='image/grasp_sim.gif' width='600px'>"
@@ -63,16 +63,6 @@ And here is the complete video demo.
 
 ## Related
 
-Another [project](/projects/precise_landing_of_uav_on_disturbed_aquatic_surface_platforms/) related to manipulator-assisted UAV landing.
+* [Follow-up](/projects/confidence-aware/) of this project.
+* Another [project](/projects/uav-landing/) related to manipulator-assisted UAV landing.
 
-
-
-<!-- La
-
-## Acknowledgement
-
-
-
-## Related
-
-[My another research project ](/projects/precise_landing_of_unmanned_aerial_vehicle_on_disturbed_aquatic_surface_platforms) -->

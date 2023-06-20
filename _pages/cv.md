@@ -9,8 +9,6 @@ redirect_from:
 date: 2023-06-17
 ---
 
-<!-- # Curriculum Vitae -->
-
 {% include base_path %}
 
 Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y"}}</time></u>. [Click to download PDF](/files/CV-Zixing.pdf). 
