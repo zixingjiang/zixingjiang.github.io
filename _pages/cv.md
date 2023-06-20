@@ -95,5 +95,5 @@ ___
 * _**Programming:**_
   * _Frequently used_: C/C++, Python, ROS
   * _Introductory level_: SQL, Verilog, VHDL
-* _**Miscellaneous:**_ LaTeX, SolidWorks, MATLAB, Arduino, STM32
+* _**Miscellaneous:**_ $$\LaTeX$$, SolidWorks, MATLAB, Arduino, STM32
 
