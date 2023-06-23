@@ -12,7 +12,8 @@ Welcome to my homepage! I'm Zixing Jiang. I graduated with a B.Eng. degree in El
 
 From March 2023,  I serve as a research assistant in CUHK-Shenzhen [Robotics and Artificial Intelligence Laboratory](https://rail.cuhk.edu.cn/) (RAIL), working on [robot-assisted ultrasound](/projects/robot_assisted_ultrasound_examination/) under the supervision of [Prof. Zhenglong Sun](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong). Before that, I worked on marine robotics under the guidance of [Prof. Huihuan Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan). 
 
-> :pushpin: I'm actively looking for a research-oriented postgraduate (Ph.D./M.Phil.) position in robotics. Please feel free to [contact me](mailto:119010130@link.cuhk.edu.cn) if I get your interest! Check my [research interests](/research/).
+> :pushpin: I'm actively looking for a research-oriented postgraduate (Ph.D./M.Phil.) position in robotics. Please feel free to [contact me](mailto:119010130@link.cuhk.edu.cn) if I get your interest! 
+<!-- Check my [research interests](/research/). -->
 
 You are welcome to collect my [curriculum vitae](/cv/), view my [previous and ongoing projects](/projects/), or read [this post](/posts/2023/03/to_know_more_about_me/) to learn more about me. 
 

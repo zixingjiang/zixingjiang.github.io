@@ -5,7 +5,7 @@ toc: true
 date: 2023-04-25
 permalink: /projects/confidence-aware/
 period: Jan. 2023 - May 2023
-abstract: <b>Research project participated @ CUHK-Shenzhen RAIL</b>.  My final year project proposed a control framework for manipulator grasping objects under base disturbance. However, the success rate is limited due to a lack of confidence evaluation of object motion prediction. This project aims to fill this gap by introducing confidence analysis. Plus, we are pursuing a physical demonstration with a real robot.  
+abstract: <b><i>Research project participated @ CUHK-Shenzhen RAIL.</i></b>  My final year project proposed a control framework for manipulator grasping objects under base disturbance. However, the success rate is limited due to a lack of confidence evaluation of object motion prediction. This project aims to fill this gap by introducing confidence analysis. Plus, we are pursuing a physical demonstration with a real robot.  
 excerpt: "<img src='image/confidence.gif' width='600px'>"
 course: false
 ---

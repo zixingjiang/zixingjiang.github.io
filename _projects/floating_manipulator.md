@@ -5,7 +5,7 @@ toc: true
 date: 2023-03-08
 permalink: /projects/floating-manipulator/
 period: Sept. 2022 - Dec. 2022
-abstract: <b>Final year project @ CUHK-Shenzhen</b>. This project aimed to make a manipulator capable of grasping objects on the restless water surface. To reach this goal, a predictive control framework was proposed. The proposed framework was verified with MATLAB Simscape simulation.
+abstract: <b><i>Final year project @ CUHK-Shenzhen.</i></b> This project aimed to make a manipulator capable of grasping objects on the restless water surface. To reach this goal, a predictive control framework was proposed. The proposed framework was verified with MATLAB Simscape simulation.
 excerpt: "<img src='image/grasp_sim.gif' width='600px'>"
 course: false
 ---
