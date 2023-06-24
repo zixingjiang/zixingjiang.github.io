@@ -18,7 +18,7 @@ toc: true
 * Advisors: [Prof. Zhenglong Sun](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong), [Prof. Xiaoqiang Ji](https://sse.cuhk.edu.cn/en/teacher/1068), [Prof. Huihuan Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
 * Keywords: *bio-inspired robot*, *flapping-wing aerial vehicle*, *aquatic-aerial hybrid locomotion*
 
-## Motivation & Objectives
+## Introduction
 
 ## Methodology
 

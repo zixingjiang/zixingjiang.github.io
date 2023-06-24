@@ -3,7 +3,7 @@ title: "Navigation of Service Robot"
 collection: projects
 permalink: /projects/ece4310-navigation/
 period: Spring 2022
-abstract: "This is an individual course project for <i>ECE4310 Programming for Robotics, Spring 2022</i> at CUHK-Shenzhen. In this project, I programmed a service robot to perform an auto-delivery task in the ROS Gazebo simulation environment: traverse all delivery sites; each site is distinguished with an AR tag, which indicates the position of the following site relative to the current site."
+abstract: "<b><i>Course project (individual), ECE4310 Programming for Robotics, Spring 2022 @ CUHK-Shenzhen.</i></b> In this project, I programmed a service robot to perform an auto-delivery task in the ROS Gazebo simulation environment: traverse all delivery sites; each site is distinguished with an AR tag, which indicates the position of the following site relative to the current site."
 excerpt: "<img src='image/navigation.gif' width='600px'>"
 course: true
 date: 2022-04-12

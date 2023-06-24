@@ -17,6 +17,6 @@ I'm eager to devote myself to solving and understanding **fundamental** scientif
 
 ## Research Projects
 
-[Click](/projects/) to read more about my previous and ongoing research projects.
+[Click to read more](/projects/) about my previous and ongoing research projects.
 
 ![research](/images/research.png)
