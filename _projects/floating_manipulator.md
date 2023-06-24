@@ -20,11 +20,13 @@ course: false
 
 ## Background & Motivation
 
-This project aimed to design a control framework for the [Manipulator-assisted UAV Landing](https://arxiv.org/abs/2212.12196) project of the RAIL Advanced Marine Robotics Group. In the assisted landing mission, the unmanned aerial vehicle (UAV) hovers near the unmanned surface vehicle (USV), and the manipulator mounted on the USV needs to overcome wave disturbances and capture the UAV. 
-
 ![usv](/images/USV.png)
 
-[Prior research](https://ieeexplore.ieee.org/document/9636055) by the Advanced Robotics Group proposed a predictive control framework to predict and compensate for wave disturbances. When wave disturbances are compensated, the floating-base manipulator can be controlled as a fixed-base manipulator. However, this approach has a very high requirement of the manipulator’s dynamical performance since, in the manipulator base’s perspective, the manipulator is tracking the trajectory of the moving target, while the target motion relative to the manipulator base caused by wave disturbance is rapid and irregular. Motivated by this situation, this project intended to lower the dynamical performance requirement by adopt the trajectory tracking manner to trajectory interception manner. 
+This project aimed to design a control framework for the [Manipulator-assisted UAV Landing](https://arxiv.org/abs/2212.12196) project of the RAIL Advanced Marine Robotics Group. In the assisted landing task, the unmanned aerial vehicle (UAV) hovers near the unmanned surface vehicle (USV), and the manipulator mounted on the USV needs to overcome wave disturbances and capture the UAV, as domonstrated in the following animation.
+
+![landing-demo](/images/usv-uav.gif)
+
+[Prior research](https://ieeexplore.ieee.org/document/9636055) by the Advanced Robotics Group proposed a predictive control framework to predict and compensate for wave disturbances. When wave disturbances are compensated, the floating-base manipulator can be controlled as a fixed-base manipulator. However, this approach has a very high requirement of the manipulator’s dynamical performance since, from the manipulator base’s perspective, the manipulator is tracking the trajectory of the moving target, while the target motion relative to the manipulator base caused by wave disturbance is very rapid and irregular. Motivated by this situation, this project intended to lower the dynamical performance requirement by adopt the trajectory tracking manner to trajectory interception manner. 
 
 ## Objective
 
@@ -37,11 +39,11 @@ The goal of this object is to design a control framework that is capable to
 
 To reach the goal, a control framework consists of three policies are proposed.  
 
-- The first policy is *approach*. The purpose of this policy is to make the manipulator as close as possible to the target without collision, so as to reduce the difficulty of subsequent prediction and grasping. Fitting a minimal volume enclosing ellipsoid (MVEE) for sampled target position is utilized for this policy.
+- The first policy is **approach**. The purpose of this policy is to make the manipulator as close as possible to the target without collision, so as to reduce the difficulty of subsequent prediction and grasping. Fitting a minimal volume enclosing ellipsoid (MVEE) for sampled target position is utilized for this policy.
 
-- The second policy is *motion prediction*. This policy utilizes [wavelet network](https://ieeexplore.ieee.org/document/1461429) to learn the underlying motion pattern from historical target motion data and predict target's position at a certain future moment.
+- The second policy is **motion prediction**. This policy utilizes [wavelet network](https://ieeexplore.ieee.org/document/1461429) to learn the underlying motion pattern from historical target motion data and predict target's position at a certain future moment.
 
-- The third policy is *motion planning*. This policy utilizes LMA inverse kinematics and cubic polynomial trajectory generation to plan a grasping trajectory. The obtained trajectory is passed to the low-level joint PID controller for execution.  
+- The third policy is **motion planning**. This policy utilizes LMA inverse kinematics and cubic polynomial trajectory generation to plan a grasping trajectory. The obtained trajectory is passed to the low-level joint PID controller for execution.  
 
 Here is an overview of the whole control framework. You may check the [project slides](/files/ERG4901_Slides_Zixing.pdf) to learn more about the details. 
 
@@ -62,7 +64,7 @@ And here is the complete video demo.
 
 
 ## Related
-
 * [Follow-up](/projects/confidence-aware/) of this project.
 * Another [project](/projects/uav-landing/) related to manipulator-assisted UAV landing.
+
 
