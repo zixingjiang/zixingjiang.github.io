@@ -18,10 +18,10 @@ From March 2023,  I serve as a research assistant in CUHK-Shenzhen [Robotics and
 You are welcome to collect my [curriculum vitae](/cv/), view my [previous and ongoing projects](/projects/), or read [this post](/posts/2023/03/to_know_more_about_me/) to learn more about me. 
 
 # News
-- **<u>03/2023</u>**&nbsp; I moved to RAIL [Prof. Zhenglong Sun's Research Group](https://rail.cuhk.edu.cn/team/255) and shifted my focus on medical robotics.
-- **<u>12/2022</u>**&nbsp; I completed my [final year project](/projects/floating-manipulator/) at RAIL Advanced Marine Robotics Group with distinction. Sincere appreciatation to [Ruoyu Xu](https://xuruoyuroy.github.io/) and Prof. Qian for their guidance and support.
-- **<u>05/2022</u>**&nbsp; A [conference paper](https://ieeexplore.ieee.org/document/9812270) I contributed (second author) was presented in IEEE ICRA 2022. The first academic publication I was involved in. 
-- **<u>11/2021</u>**&nbsp; CUHK-Shenzhen Undergraduate Research Award (URA) Committee supported my first exploration of [bio-inpired robotics](/projects/kingfisher-robot/).
-- **<u>10/2020</u>**&nbsp; I became the second president of RAIL Student Robotics Association (the first president: [Zeyuan Feng](https://thezeyuanfeng.github.io/)), shouldering the responsibility of exposing more CUHK-Shenzhen undergraduates to robotics. 
-- **<u>09/2020</u>**&nbsp; I joined RAIL [Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260) as an undergraduate research assistant. My first attempt at robotic research.
--  **<u>09/2019</u>**&nbsp; I joined RAIL Student Robotics Association. My first exposure to robotics.
+- **03/2023:**&nbsp; I moved to RAIL [Prof. Zhenglong Sun's Research Group](https://rail.cuhk.edu.cn/team/255) and shifted my focus on medical robotics.
+- **12/2022:**&nbsp; I completed my [final year project](/projects/floating-manipulator/) at RAIL Advanced Marine Robotics Group with distinction. Sincere appreciatation to [Ruoyu Xu](https://xuruoyuroy.github.io/) and Prof. Qian for their guidance and support.
+- **05/2022:**&nbsp; A [conference paper](https://ieeexplore.ieee.org/document/9812270) I contributed (second author) was presented in IEEE ICRA 2022. The first academic publication I was involved in. 
+- **11/2021:**&nbsp; CUHK-Shenzhen Undergraduate Research Award (URA) Committee supported my first exploration of [bio-inpired robotics](/projects/kingfisher-robot/).
+- **10/2020:**&nbsp; I became the second president of RAIL Student Robotics Association (the first president: [Zeyuan Feng](https://thezeyuanfeng.github.io/)), shouldering the responsibility of exposing more CUHK-Shenzhen undergraduates to robotics. 
+- **09/2020:**&nbsp; I joined RAIL [Advanced Marine Robotics Group](https://rail.cuhk.edu.cn/team/260) as an undergraduate research assistant. My first attempt at robotic research.
+-  **09/2019:**&nbsp; I joined RAIL Student Robotics Association. My first exposure to robotics.
