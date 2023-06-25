@@ -21,9 +21,9 @@ toc: true
 ## Introduction
 Inspired by the [flying fish](https://en.wikipedia.org/wiki/Flying_fish) and the [kingfisher](https://en.wikipedia.org/wiki/Kingfisher), this project aimed to build a robot that can perfrom agile aquatic-aerial **hybrid** locomotion. Ornithopter prototypes were built and various flight tests were conducted. Check the [demonstrations](#demonstrations). 
 
-![concept](/_projects/image/concept.png)
+![concept](../image/concept.png)
 
-![robot](/_projects/image/bio.png)
+![robot](../image/bio.png)
 
 ## Reflection
 <!-- Although the following text may be insuitable  -->
@@ -43,7 +43,7 @@ Table of contents:
 
 Here are the sequential screenshots of the take-off process:
 
-![take-off](/_projects/image/take-off.png)
+![take-off](../image/take-off.png)
 
 Here is the complete video:
 
@@ -56,7 +56,7 @@ Here is the complete video:
 
 Here are the sequential screenshots of advancing on water by flapping wings:
 
-![advance](/_projects/image/swimming.png)
+![advance](../image/swimming.png)
 
 Here is the complete video:
 
@@ -69,7 +69,7 @@ Here is the complete video:
 
 Here are the sequential screenshots of a successful take-off, with large initial angle of attack (AoA):
 
-![large-aoa](/_projects/image/large-aoa.png)
+![large-aoa](../image/large-aoa.png)
 
 Here is the complete video:
 
@@ -82,7 +82,7 @@ Here is the complete video:
 
 Here are the sequential screenshots of a failed take-off, with small initial angle of attack (AoA):
 
-![small-aoa](/_projects/image/small-aoa.png)
+![small-aoa](../image/small-aoa.png)
 
 Here is the complete video:
 
