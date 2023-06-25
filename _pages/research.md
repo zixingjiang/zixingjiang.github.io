@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+{% include base_path %}
+
 My research journey began in CUHK-Shenzhen [Robotics & AI Lab](https://rail.cuhk.edu.cn/) (RAIL). I'm fortunate to have [Prof. Zhenglong Sun](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong) and [Prof. Huihuan Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan) to guide me in research and train my sense of science & engineering. I have a broad range of research interests in 
 * **Robotics:** design, perception, control, and planning
 * **Robot-assisted medical procedures:** surgical robot, healthcare robot, etc
