@@ -12,7 +12,7 @@ toc: true
 
 {% include base_path %}
 
-* Research project participated at RAIL Advanced Robotics Group, CUHK-Shenzhen. 
+* Research project participated at CUHK-Shenzhen Robotics & AI Lab. 
 * Sept. 2020 -- Sept. 2021
 * Supervisor: [Prof. Huihuan Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
 * Project Mentor: [Chongfeng Liu](https://chongfengliu.github.io/) (Ph.D. Candidate)
