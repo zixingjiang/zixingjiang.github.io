@@ -25,8 +25,27 @@ Inspired by the [flying fish](https://en.wikipedia.org/wiki/Flying_fish) and the
 
 ![robot](../image/bio.png)
 
+## Limitations
+
+It's a pity to announce that <font color="red">the project did NOT accomplish all of its stated goals during the period of URA funding</font>:
+
+- Take-off from the ground :heavy_check_mark:
+- Take-off from the water surface :x:
+- Fly in the air :heavy_check_mark:
+- Controlled motion in the air :x:
+- Move on the water surface :heavy_check_mark:
+- Controlled motion on the water surface :x:
+- Controlled motion in the water :x:
+
+Despite exciting initial results, by the fall of 2022, I was finding it increasingly difficult to move forward. 
+
+- Control of the ornithopter required high expertise in vortex aerodynamics and underactuated systems, which was far beyond my knowledge.
+- The micro-coreless motors I could afford were limited in power (my prototype was hard to take off, and there was no room to continue adding equipment) and didn't support precise speed and position control. Micro DC servo motors might work but be too expensive for the URA grant. 
+
+With the mutual agreement between the CUHK-Shenzhen URA committee and me, this project was finally terminated in October 2022.
+
 ## Reflection
-<!-- Although the following text may be insuitable  -->
+
 
 
 ## Demonstrations
@@ -47,14 +66,14 @@ Here are the sequential screenshots of the take-off process:
 
 Here is the complete video:
 
-<video src="/files/bio-take-off.mp4" controls="controls" style="max-width: 769px;">
+<video src="/files/bio-take-off.mp4" controls="controls" style="max-width: 769px">
 </video>
 
 ---
 
 ### Advance on water
 
-Here are the sequential screenshots of advancing on water by flapping wings:
+Here are the sequential screenshots of advancing on the water surface by flapping wings:
 
 ![advance](../image/swimming.png)
 
@@ -89,4 +108,17 @@ Here is the complete video:
 <video src="/files/bio-small-aoa.mp4" controls="controls" style="max-width: 769px;">
 </video>
 
+## Related
 
+Some projects & products I referred to: 
+* [DelFly](https://www.delfly.nl/) - Micro Air Vehicles Laboratory, Delft University of Technology, Netherlands.
+* [Hummingbird](https://www.youtube.com/watch?v=GCEbEL_EmyQ) - Bio-Robotics Lab, Purdue University, USA.
+* [Robobee](https://wyss.harvard.edu/technology/robobees-autonomous-flying-microrobots/) - Harvard Microrobotics Lab, Harvard University, USA.
+* [小隼](https://www.bilibili.com/video/BV12L4y1b7K2/?vd_source=1bcf36ba276d5029a29aca337d5d3a4a) - Northwestern Polytechnical University, China.
+* [MetaFly](https://www.bionicbird.com/world/metafly-page) and [MetaBird](https://www.bionicbird.com/world/metabird-page) - Bionicbird, France.
+* [BionicSwift](https://www.festo.com/ca/en/e/about-festo/research-and-development/bionic-learning-network/highlights-from-2015-to-2017/bionicswift-id_326830/) - Festo, Germany.
+
+Some papers I found useful for understading insect flight:
+* M. H. Dickinson, F.-O. Lehmann, and S. P. Sane, "[Wing Rotation and the Aerodynamic Basis of Insect Flight](https://www.science.org/doi/epdf/10.1126/science.284.5422.1954)," _Science_, vol. 284, no. 5422, pp. 1954–1960, 1999.
+* M. Sun and D. Gang, “[Lift and Power Requirements of Hovering Insect Flight](https://link.springer.com/article/10.1007/BF02484580)," _Acta Mechanica Sinica_, vol. 19, pp. 458–469, 10 2003.
+* K. S. Wu, J. Nowak, and K. S. Breuer, “[Scaling of the Performance of Insect-Inspired Passive-Pitching Flapping Wings](https://royalsocietypublishing.org/doi/10.1098/rsif.2019.0609),” _Journal of the Royal Society Interface_, vol. 16, 2019

@@ -21,9 +21,9 @@ course: false
 ## Introduction
 
 This project is the follow-up of my [final year project](/projects/floating-manipulator/). Although the feasibility, the control framework proposed in my final year project has a limited success rate because
-* _**it lacks a proper evaluation matric of capture timing:**_ we simply predicted the target's position one second later and planned the capture trajectory accordingly, however, "one second later" may not be the best capture timing
-* _**it does not consider the prediction confidence of the wavelet network:**_ the wavelet network won't always give us accurate predictions
-* _**it does not guarantee that the planned capture trajectory is executable for the manipulator:**_ the dynamic performance of the manipulator may be insufficient to execute the planned trajectory
+* _**It lacks a proper evaluation matric of capture timing:**_ we simply predicted the target's position one second later and planned the capture trajectory accordingly, however, "one second later" may not be the best capture timing
+* _**It does not consider the prediction confidence of the wavelet network:**_ the wavelet network won't always give us accurate predictions
+* _**It does not guarantee that the planned capture trajectory is executable for the manipulator:**_ the dynamic performance of the manipulator may be insufficient to execute the planned trajectory
 
 In this project, we solved the above problem by introducing confidence analysis in the control framework. In the refined **confidence-aware** control framework, we consider both prediction confidence and manipulator dynamic constraints when planning capture trajectories. Plus, we made intensive optimization so that the framework can meet the **real-time** requirement.
 
