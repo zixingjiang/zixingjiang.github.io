@@ -24,5 +24,5 @@ I'm eager to devote myself to solving and understanding **fundamental** scientif
 <!-- ![research](/images/research.png) -->
 
 <a href="/projects/">
-    <img border="0" src="/images/research.png/" />
+    <img border="0" src="/_pages/image/research/research.png" />
 </a>
