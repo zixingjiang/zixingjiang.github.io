@@ -1,5 +1,5 @@
 ---
-title: "Bio-Inspired Aquatic-Aerial Hybrid Locomotion Robot"
+title: "Bio-inspired Aquatic-Aerial Hybrid Locomotion Robot"
 collection: projects
 permalink: /projects/kingfisher-robot/
 period: Nov. 2021 - Oct. 2022
