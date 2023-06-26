@@ -18,8 +18,32 @@ toc: true
 * Project Mentor: [Chongfeng Liu](https://chongfengliu.github.io/) (Ph.D. Candidate)
 * Keywords: *UAV landing*, *mechanical design*
 
-## Motivation & Objectives
+## Introduction
 
-## Methodology
+![tethered](../image/tethered-landing.gif)
 
-## Results
+![system](../image/system.png)
+
+## Application
+
+![landing](../image/landing.png)
+
+![usv](/images/USV.png)
+
+
+
+
+## Demonstration
+
+Here is a video demonstrating how the proposed tethered landing method works.
+
+<video src="/files/uav-landing.mp4" controls="controls" style="max-width: 769px;">
+</video>
+
+## Publication
+- Chongfeng Liu, **Zixing Jiang**, Ruoyu Xu, Xiaoqiang Ji, Lianxin Zhang, and Huihuan Qian, "Design and Optimization of a Magnetic Catch System for Precise UAV Landing on Disturbed Aquatic Surface Platform", _2022 IEEE International Conference on Robotics and Automation (ICRA)_, IEEE, 2022, pp. 1162-1168. <a href="https://ieeexplore.ieee.org/document/9812270"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+
+## Related
+Other projects related to [manipulator-assisted UAV landing](https://arxiv.org/abs/2212.12196):
+- [Control of the Multi-joint Manipulator for Grasping on Water Surface](/projects/floating-manipulator/)
+- [Confidence-Aware Object Capture for a Floating-Base Manipulator](/projects/confidence-aware/)

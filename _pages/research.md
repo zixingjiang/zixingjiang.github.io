@@ -19,9 +19,7 @@ I'm eager to devote myself to solving and understanding **fundamental** scientif
 
 ## Research Projects
 
-<!-- [Click to read more](/projects/) about research projects I participated. -->
-
-<!-- ![research](/images/research.png) -->
+Click the image below to read more about my previous and ongoing research projects.
 
 <a href="/projects/">
     <img border="0" src="/_pages/image/research/research.png" />

@@ -13,11 +13,6 @@ Here is a showcase of some of my previous and ongoing projects. You can view the
 
 ## Research & Final Year Projects
 ---
-<!-- {% for post in site.projects%}
-  {% if post.course == false%}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %} -->
 
 {% assign sortedProjects = site.projects | sort: 'date' | reverse %}
 
@@ -30,11 +25,6 @@ Here is a showcase of some of my previous and ongoing projects. You can view the
 
 ## Course Projects
 ---
-<!-- {% for post in site.projects%}
-  {% if post.course == true%}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %} -->
 
 {% for post in sortedProjects %}
   {% if post.course == true %}

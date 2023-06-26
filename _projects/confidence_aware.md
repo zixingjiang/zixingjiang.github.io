@@ -35,7 +35,7 @@ This work was summerized as a jounral paper and submitted to IEEE Transactions o
 
 ## Publication Ongoing
 
-Ruoyu Xu, **Zixing Jiang**, Beibei Liu, Yuquan Wang, and Huihuan Qian, “Confidence-Aware Object Capture for a Manipulator Subject to Floating-Base Disturbances”, Submitted to IEEE Transactions on Robotics (T-RO). 2023. <font color="red">(under review)</font>
+- Ruoyu Xu, **Zixing Jiang**, Beibei Liu, Yuquan Wang, and Huihuan Qian, “Confidence-Aware Object Capture for a Manipulator Subject to Floating-Base Disturbances”, Submitted to IEEE Transactions on Robotics (T-RO). 2023. <font color="red">(under review)</font>
 
 
 ## Related

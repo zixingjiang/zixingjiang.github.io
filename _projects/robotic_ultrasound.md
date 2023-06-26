@@ -15,7 +15,7 @@ course: false
 * Resaerch project at CUHK-Shenzhen. Completed with distinction. 
 * Mar. 2023 -- Present
 * Supervisor: [Prof. Zhenglong Sun](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong)
-* Keywords: *robotic ultrasound*
+* Keywords: *robotic ultrasound*, *visual servoing*
 
 ## Introduction
 
