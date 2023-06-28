@@ -36,7 +36,7 @@ $$\begin{bmatrix}x_{w}\\y_{w}\end{bmatrix} = \boldsymbol{k}^{\top} \begin{bmatri
 
 Where $[x_{w}, y_{w}, 0]^{\top}$ is target's position in world frame, and $[x_{c}, y_{c}]^{\top}$ is target's position in camera image frame. In this project, coefficients $\boldsymbol{k}$ and $\boldsymbol{b}$ were computed by using least squares on multiple pairs of sampled target positions. 
 
-You may check the [project report]() for more technical details. 
+You may check the [project report](/files/ECE4310%20Project%202%20Report%20(119010130).pdf) for more technical details. 
 
 ## Demonstration
 

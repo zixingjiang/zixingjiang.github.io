@@ -17,10 +17,17 @@ toc: true
 - Keywords: *robot navigation*
 
 ## Introduction
+In this project, I programmed a service robot to perform an auto-delivery task in ROS Gazebo simulation
+environment: traverse all delivery sites; each site is distinguished with an Artificial Reality (AR)
+tag, which indicates the position of the following site relative to the current site.
+
+![delivery](../image/delivery.png)
+
+You may check the [project report](/files/ECE4310%20Project%201%20Report%20(119010130).pdf) for more technical details. 
 
 ## Demonstration
-{% include base_path %}
+
+Here is a video demo of real robots performing the auto delivery task.
+
 <video src="/files/navigation.mp4" controls="controls" style="max-width: 769px;">
 </video>
-
-## Acknowledgement
