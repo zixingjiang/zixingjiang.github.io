@@ -31,9 +31,9 @@ To the best of our knowledge, this is the first work demonstrating feasibility o
 
 ![confidence-capture](/images/confidence.gif)
 
-This work was summerized as a jounral paper and submitted to IEEE Transactions on Robotics (T-RO). More details of this project will be revealed after the publication process.
-
 ## Publication Ongoing
+
+This work was summerized as a jounral paper and submitted to _IEEE Transactions on Robotics (T-RO)_. More details of this project will be revealed after the publication process.
 
 - Ruoyu Xu, **Zixing Jiang**, Beibei Liu, Yuquan Wang, and Huihuan Qian, “Confidence-Aware Object Capture for a Manipulator Subject to Floating-Base Disturbances”, Submitted to IEEE Transactions on Robotics (T-RO). 2023. <font color="red">(under review)</font>
 

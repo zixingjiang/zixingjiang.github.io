@@ -17,8 +17,30 @@ toc: true
 - Keywords: *manipulator*, *visual servoing*, *pick-and-place*
 
 ## Introduction
+In this project, I programmed a 6-degree-of-freedom serial manipulator ([Interbotix WidowX-250 6DoF](https://www.trossenrobotics.com/docs/interbotix_xsarms/specifications/wx250s.html)) with eye-in-hand camera
+configuration to perform an intelligent sorting task: automatically places the different colored
+pieces into the corresponding colored trash bins. 
+
+![sorting](../image/sorting.png)
+
+## Methodology
+
+In this project, I used the [ROS MoveIt!](https://moveit.ros.org/) toolkit to implement most of the functions, including motion planning and obstacle avoidance. I used the [OpenCV](https://opencv.org/) package and HSV masks to detect and distinguish the differently colored targets. 
+
+![hsv](../image/hsv.png)
+
+I used linear regression for single pose eye-in-hand calibration (The robot was programmed to only observes and calculates the target position in a preset pose. Hence only the preset pose needs to be calibrated). 
+
+
+$$\begin{bmatrix}x_{w}\\y_{w}\end{bmatrix} = \boldsymbol{k}^{\top} \begin{bmatrix}x_{c}\\y_{c}\end{bmatrix} + \boldsymbol{b}$$
+
+Where $[x_{w}, y_{w}, 0]^{\top}$ is target's position in world frame, and $[x_{c}, y_{c}]^{\top}$ is target's position in camera image frame. In this project, coefficients $\boldsymbol{k}$ and $\boldsymbol{b}$ were computed by using least squares on multiple pairs of sampled target positions. 
+
+You may check the [project report]() for more technical details. 
 
 ## Demonstration
+
+Here is a video demo of real robots performing the sorting task.
 
 {% include base_path %}
 <video src="/files/sorting.mp4" controls="controls" style="max-width: 769px;">

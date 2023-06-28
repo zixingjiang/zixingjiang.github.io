@@ -54,7 +54,7 @@ Both [successful](#take-off-successfully---large-aoa) and [unsuccessful](#take-o
 
 ![paper](../image/aoa.png)
 
-I have to admit that I did have this as my new academic discovery for a while, and even imagined that I would be famous in the academic world for pointing out this law. Until one day when I searched the literature, I found that this law and the principle behind it had been written in a [paper](https://link.springer.com/article/10.1007/BF02484580), almost 20 years ago. :joy:
+I have to admit that I did have this as my new academic discovery for a while, and even imagined that I would be famous in the academic world for pointing out this law. Until one day when I searched the literature, I found that this law and the principle behind it had been written in a paper ([Lift and Power Requirements of Hovering Insect Flight](https://link.springer.com/article/10.1007/BF02484580)) published almost 20 years ago. :joy:
 
 ![paper](../image/paper.png)
 
