@@ -78,7 +78,7 @@ Here are the sequential screenshots of the take-off process:
 
 ![take-off](../image/take-off.png)
 
-Here is the complete video:
+Here is the video demo:
 
 <video src="/files/bio-take-off.mp4" controls="controls" style="max-width: 769px">
 </video>
@@ -91,7 +91,7 @@ Here are the sequential screenshots of advancing on the water surface by flappin
 
 ![advance](../image/swimming.png)
 
-Here is the complete video:
+Here is the video demo:
 
 <video src="/files/bio-swimming.mp4" controls="controls" style="max-width: 769px;">
 </video>
@@ -104,7 +104,7 @@ Here are the sequential screenshots of a successful take-off, with large initial
 
 ![large-aoa](../image/large-aoa.png)
 
-Here is the complete video:
+Here is the video demo:
 
 <video src="/files/bio-large-aoa.mp4" controls="controls" style="max-width: 769px;">
 </video>
@@ -117,7 +117,7 @@ Here are the sequential screenshots of a failed take-off, with small initial ang
 
 ![small-aoa](../image/small-aoa.png)
 
-Here is the complete video:
+Here is the video demo:
 
 <video src="/files/bio-small-aoa.mp4" controls="controls" style="max-width: 769px;">
 </video>
