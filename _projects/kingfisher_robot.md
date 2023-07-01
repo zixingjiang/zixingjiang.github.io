@@ -85,7 +85,7 @@ Here is the video demo:
 
 ---
 
-### Advance on water
+### Advance on the water
 
 Here are the sequential screenshots of advancing on the water surface by flapping wings:
 
