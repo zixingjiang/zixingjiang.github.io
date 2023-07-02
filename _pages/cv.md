@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 redirect_from:
   - /resume
-date: 2023-06-17
+date: 2023-07-01
 ---
 
 {% include base_path %}
