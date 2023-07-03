@@ -11,7 +11,7 @@ My research journey began in CUHK-Shenzhen [Robotics & AI Lab](https://rail.cuhk
 * **Robotics:** design, perception, control, and planning
 * **Robot-assisted medical procedures:** surgical robot, healthcare robot, etc
 * **Human-in-the-loop systems:** collaborative robots, prosthesis, teleoperation, etc
-* **Bio-inspired robotics,** as it can be one way we understand nature
+* **Bio-inspired robotics,** as it can be one way we learn about nature
 
 > What I cannot create, I do not understand. --- Richard Feynman
 
