@@ -25,4 +25,5 @@ Ultrasound examination is a cornerstone of modern noninvasive medical diagnostic
 
 Demos will be updated after development.
 
-![robot](../image/RAUS.png)
+<video src="/files/servoing_thyroid.mp4" controls="controls" style="max-width: 769px;">
+</video>
