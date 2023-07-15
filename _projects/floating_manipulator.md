@@ -59,7 +59,7 @@ This project proposed a control framework and verified the framework through Sim
 
 And here is the complete video demo.
 
-<video src="/files/grasp_sim.mov" controls="controls" style="max-width: 769px;">
+<video src="/files/grasp_sim.mov" controls="controls" controlslist="nodownload" style="max-width: 769px;">
 </video>
 
 

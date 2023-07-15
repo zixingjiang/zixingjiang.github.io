@@ -48,7 +48,7 @@ Besides, we applied the tethered landing method to design an end effector for ou
 
 Here is a video demonstrating how the proposed tethered landing method works.
 
-<video src="/files/uav-landing.mp4" controls="controls" style="max-width: 769px;">
+<video src="/files/uav-landing.mp4" controls="controls" controlslist="nodownload" style="max-width: 769px;">
 </video>
 
 ## Publication

@@ -29,5 +29,5 @@ You may check the [project report](/files/ECE4310%20Project%201%20Report%20(1190
 
 Here is a video demo of real robots performing the auto delivery task.
 
-<video src="/files/navigation.mp4" controls="controls" style="max-width: 769px;">
+<video src="/files/navigation.mp4" controls="controls" controlslist="nodownload" style="max-width: 769px;">
 </video>
