@@ -17,7 +17,8 @@ Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_
 
 # Education
 
-* B.Eng. in Electronic Information Engineering (Computer Engineering stream), _**The Chinese University of Hong Kong, Shenzhen**_ (CUHK-Shenzhen), Shenzhen, China, <u>Sept. 2019 - May. 2023</u>
+* B.Eng. in Electronic Information Engineering (Stream: Computer Engineering), _**The Chinese University of Hong Kong, Shenzhen**_ (CUHK-Shenzhen), Shenzhen, China, <u>Sept. 2019 - May. 2023</u>
+  * Complete with Honours, First Class
   * Core Curriculum: _Robotics and Intelligent Systems, Automatic Control Theory, Programming for Robotics, Image Processing and Computer Vision, Reinforcement Learning, Artificial Intelligence, Parallel Programming, Microprocessor Systems, Digital Logic, Signals and Systems, Optimization,_ etc
 
 ---
