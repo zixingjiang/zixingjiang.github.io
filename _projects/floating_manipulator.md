@@ -1,5 +1,5 @@
 ---
-title: "Control of the Multi-joint Manipulator for Grasping on Water Surface"
+title: "Control of the Multi-Joint Manipulator for Grasping on Water Surface"
 collection: projects
 toc: true
 date: 2023-03-08

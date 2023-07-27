@@ -1,5 +1,5 @@
 ---
-title: "Robot-Assisted Ultrasound Examination"
+title: "Autonomous Robotic Ultrasound for Thyroid and Breast"
 collection: projects
 toc: true
 date: 2023-05-01
