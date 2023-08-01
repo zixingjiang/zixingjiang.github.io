@@ -15,7 +15,7 @@ course: false
 * Final year project at CUHK-Shenzhen. Completed with distinction. 
 * Sept. 2022 -- Dec. 2022
 * Supervisor: [Prof. Huihuan Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
-* Project Mentor: [Ruoyu Xu](https://xuruoyuroy.github.io/) (Ph.D. Candidate)
+* Project Mentor: [Dr. Ruoyu Xu](https://xuruoyuroy.github.io/)
 * Keywords: *floating-base manipulator*, *object catching*, *motion prediction*
 
 ## Background & Motivation

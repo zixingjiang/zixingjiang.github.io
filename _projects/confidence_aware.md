@@ -15,7 +15,7 @@ course: false
 * Resaerch project participated at CUHK-Shenzhen robotics & AI lab
 * Sept. 2022 -- May 2023
 * Supervisor: [Prof. Huihuan Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)
-* Project Mentor: [Ruoyu Xu](https://xuruoyuroy.github.io/) (Ph.D. Candidate)
+* Project Mentor: [Dr. Ruoyu Xu](https://xuruoyuroy.github.io/)
 * Keywords: *object capture*, *floating-base manipulator*, *motion planning*, *confidence analysis*
 
 ## Introduction
