@@ -89,6 +89,7 @@ Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_
 ___
 
 # Awards
+* _**SSE 2022-23 Dean's List**_, CUHK-Shenzhen, <u>2023</u>
 * _**Undergraduate First Class Honours Degree**_, CUHK-Shenzhen, <u>2023</u>
 * _**Final Year Project Distinction**_, CUHK-Shenzhen, <u>2023</u>
 * 17th - 19th Round _**Undergraduate Research Award**_, CUHK-Shenzhen, <u>2021-2022</u>
