@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 redirect_from:
   - /resume
-date: 2023-07-25
+date: 2023-09-01
 ---
 
 {% include base_path %}
@@ -104,5 +104,5 @@ ___
 * _**Programming:**_ C/C++, Python, and Bash on Linux (Ubuntu, CentOS) platform
 * _**Robotics development toolkit:**_ MATLAB, ROS (1 $\gg$ 2) suite, STM32, Arduino, SolidWorks
 * _**Algorithms:**_ manipulator kinematics and dynamics, motion planning and control, force control, image processing and conputer vision, machine learning and reinforcement learning
-* _**Technical interests:**_ typesetting systems ($$\LaTeX$$, [typst](https://typst.app/)), mathematical animation engine ([Manim](https://github.com/3b1b/manim)), computer graphics, multiphysics simulation, compiler ([LLVM](https://llvm.org/))
+* _**Technical interests:**_ kinematics automation ([ikfast](http://openrave.org/docs/0.8.2/openravepy/ikfast/)), typesetting systems ($$\LaTeX$$, [typst](https://typst.app/)), mathematical animation engine ([Manim](https://github.com/3b1b/manim)), computer graphics, multiphysics simulation, compiler ([LLVM](https://llvm.org/))
 
