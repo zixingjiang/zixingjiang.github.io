@@ -27,7 +27,7 @@ Last updated: <u><time datetime="{{ post.date | default: "1900-01-01" | date_to_
 # Research Interests
 
 * Image- and force-guided robotic systems
-* Medical robotics
+<!-- * Medical robotics -->
 * Bio-inspired robotics
 
 ---

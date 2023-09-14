@@ -15,7 +15,8 @@ From March 2023,  I serve as a research assistant in CUHK-Shenzhen [Robotics and
 > :pushpin: I'm actively looking for a research-oriented postgraduate (Ph.D./M.Phil.) position in robotics. Please feel free to [contact me](mailto:119010130@link.cuhk.edu.cn) if I get your interest! 
 
 
-You are welcome to collect my [curriculum vitae](/cv/), view my [previous and ongoing projects](/projects/), or read [this post](/posts/2023/03/to_know_more_about_me/) to learn more about me. 
+You are welcome to collect my [curriculum vitae](/cv/), view my [previous and ongoing projects](/projects/)
+<!-- , or read [this post](/posts/2023/03/to_know_more_about_me/) to learn more about me.  -->
 
 # Milestones
 - **05/2023:**&nbsp; I graduated from CUHK-Shenzhen. My sincere gratitude to all the mentors who guided me and the friends who accompanied me through the journey!
