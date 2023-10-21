@@ -12,7 +12,7 @@ toc: true
 
 ## Journal Article(s)
 - Ruoyu Xu, **Zixing Jiang**, Beibei Liu, Yuquan Wang, and Huihuan
-Qian*, "_Confidence-Aware Object Capture for a Manipulator Subject to Floating-Base Disturbances_", Submitted to IEEE Transactions on Robotics **(T-RO)**. 2023 <font color="red">(under review)</font>.
+Qian*, "_Confidence-Aware Object Capture for a Manipulator Subject to Floating-Base Disturbances_", Submitted to IEEE Transactions on Robotics **(T-RO)**, 2023 <font color="red">(under review)</font>.
 
 ## Conference Papers
 - Yiyang Jiang, Ruoyu Xu, **Zixing Jiang**, and Huihuan Qian*, "_Design, Modeling and Control of A Novel USV-Manipulator System_", 2023 IEEE International Conference on Real-time Computing and Robotics **(RCAR 2023)**, pp. 206-211, IEEE, 2023. <a href="https://ieeexplore.ieee.org/document/10249802"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
