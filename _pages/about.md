@@ -16,7 +16,7 @@ I graduated with a B.Eng. degree in Electronic Information Engineering (Computer
 
 You are welcome to collect my [curriculum vitae](/cv/) and view my [previous and ongoing projects](/projects/).
 
-> I'm actively looking for research-oriented postgraduate (Ph.D./M.Phil.) opportunities related to "medicine + robotics". Please feel free to [contact me](mailto:119010130@link.cuhk.edu.cn) if I get your interest! 
+> I'm actively looking for research-oriented postgraduate (Ph.D./M.Phil.) opportunities related to "robotics + medicine". Please feel free to [contact me](mailto:119010130@link.cuhk.edu.cn) if I get your interest! 
 
 
 # Research Interests
