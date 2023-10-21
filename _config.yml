@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Zixing's Homepage"
-title_separator          : "-"
+title_separator          : "/"
 name                     : &name "Zixing JIANG"
 description              : &description "Undergraduate at the Chinese University of Hong Kong, Shenzhen"
 url                      : https://www.zixingjiang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -86,8 +86,8 @@ analytics:
 author:
   name             : "Zixing JIANG"
   avatar           : "zixing_profile.jpg"
-  bio              : "Research Assistant @ RAIL, CUHKSZ-Shenzhen."
-  location         : "Shenzhen, China"
+  bio              : "Incoming Research Assistant at Department of Surgery, CUHK"
+  location         : "Sha Tin, NT, HKSAR"
   employer         : # "RAIL, CUHK-SZ"
   pubmed           :
   orcid            : 

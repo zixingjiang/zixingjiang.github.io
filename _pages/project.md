@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-Here is a showcase of some of my previous and ongoing projects. You can view the project profiles through the links. I may not update this page very often. So if you want to keep track of my latest activities, you may check my [GitHub](https://github.com/zixingjiang).
+Here is a showcase of some of my previous and ongoing projects. 
 
 {% include base_path %}
 

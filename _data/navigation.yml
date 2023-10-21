@@ -4,8 +4,8 @@ main:
   - title: "About Me"
     url: /about/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   - title: "Projects"
     url: /projects/
@@ -16,5 +16,5 @@ main:
   - title: "Blog Posts"
     url: /posts/
 
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /cv/
