@@ -13,9 +13,9 @@ Welcome to my homepage! I'm an incoming research assistant at the [Department of
 I graduated with a B.Eng. degree in Electronic Information Engineering (Computer Engineering Stream) from the [School of Science and Engineering](https://sse.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-Shenzhen) in the summer of 2023. At CUHK-Shenzhen, I was so fortunate to be involved in robotics research at the 
 [Robotics and Artificial Intelligence Laboratory](https://rail.cuhk.edu.cn/) (RAIL) and to be kindly mentored by [Prof. Zhenglong Sun](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong) and [Prof. Huihuan Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan).
 
-You are welcome to browse my [previous and ongoing projects](/projects/), or collect my [resume](/cv/).
+You are welcome to browse my [previous and ongoing projects](/projects/), and collect my [resume](/cv/).
 
-> I'm actively looking for research-oriented postgraduate (Ph.D./M.Phil.) opportunities related to "robotics + medicine". Please feel free to [contact me](mailto:119010130@link.cuhk.edu.cn) if I get your interest! 
+> I'm actively looking for research-oriented postgraduate (Ph.D./M.Phil.) opportunities related to "robotics + medicine". Please feel free to [contact me](mailto:119010130@link.cuhk.edu.cn) if I get your interest!
 
 
 # Research Interests
