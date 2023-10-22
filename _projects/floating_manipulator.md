@@ -59,9 +59,9 @@ This project proposed a control framework and verified the framework through Sim
 
 And here is the complete video demo.
 
-<video src="/files/grasp_sim.mov" controls="controls" controlslist="nodownload" style="max-width: 769px;">
-</video>
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="/files/grasp_sim.mp4" style="position: absolute; width: 100%; height: 100%; border: none;" sandbox="" allowfullscreen></iframe>
+</div>
 
 ## Related
 * [Follow-up](/projects/confidence-aware/) of this project.

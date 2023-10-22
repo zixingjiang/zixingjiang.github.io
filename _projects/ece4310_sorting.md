@@ -43,5 +43,7 @@ You may check the [project report](/files/ECE4310%20Project%202%20Report%20(1190
 Here is a video demo of real robots performing the sorting task.
 
 {% include base_path %}
-<video src="/files/sorting.mp4" controls="controls" controlslist="nodownload" style="max-width: 769px;">
-</video>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="/files/sorting.mp4" style="position: absolute; width: 100%; height: 100%; border: none;" sandbox="" allowfullscreen></iframe>
+</div>

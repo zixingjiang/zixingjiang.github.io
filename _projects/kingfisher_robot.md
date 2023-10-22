@@ -80,8 +80,9 @@ Here are the sequential screenshots of the take-off process:
 
 Here is the video demo:
 
-<video src="/files/bio-take-off.mp4" controls="controls" controlslist="nodownload" style="max-width: 769px">
-</video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="/files/bio-take-off.mp4" style="position: absolute; width: 100%; height: 100%; border: none;" sandbox="" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -93,8 +94,9 @@ Here are the sequential screenshots of advancing on the water surface by flappin
 
 Here is the video demo:
 
-<video src="/files/bio-swimming.mp4" controls="controls" controlslist="nodownload" style="max-width: 769px;">
-</video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="/files/bio-swimming.mp4" style="position: absolute; width: 100%; height: 100%; border: none;" sandbox="" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -106,8 +108,9 @@ Here are the sequential screenshots of a successful take-off, with large initial
 
 Here is the video demo:
 
-<video src="/files/bio-large-aoa.mp4" controls="controls" controlslist="nodownload" style="max-width: 769px;">
-</video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="/files/bio-large-aoa.mp4" style="position: absolute; width: 100%; height: 100%; border: none;" sandbox="" allowfullscreen></iframe>
+</div>
 
 ---
 
@@ -119,8 +122,9 @@ Here are the sequential screenshots of a failed take-off, with small initial ang
 
 Here is the video demo:
 
-<video src="/files/bio-small-aoa.mp4" controls="controls" controlslist="nodownload" style="max-width: 769px;">
-</video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="/files/bio-small-aoa.mp4" style="position: absolute; width: 100%; height: 100%; border: none;" sandbox="" allowfullscreen></iframe>
+</div>
 
 ## Related
 

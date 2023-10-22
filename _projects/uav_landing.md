@@ -48,8 +48,9 @@ Besides, we applied the tethered landing method to design an end effector for ou
 
 Here is a video demonstrating how the proposed tethered landing method works.
 
-<video src="/files/uav-landing.mp4" controls="controls" controlslist="nodownload" style="max-width: 769px;">
-</video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="/files/uav-landing.mp4" style="position: absolute; width: 100%; height: 100%; border: none;" sandbox="" allowfullscreen></iframe>
+</div>
 
 ## Publication
 - Chongfeng Liu, **Zixing Jiang**, Ruoyu Xu, Xiaoqiang Ji, Lianxin Zhang, and Huihuan Qian, "Design and Optimization of a Magnetic Catch System for Precise UAV Landing on Disturbed Aquatic Surface Platform", _2022 IEEE International Conference on Robotics and Automation (ICRA)_, IEEE, 2022, pp. 1162-1168. <a href="https://ieeexplore.ieee.org/document/9812270"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>

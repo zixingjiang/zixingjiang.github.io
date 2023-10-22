@@ -29,10 +29,6 @@ You may check the [project report](/files/ECE4310%20Project%201%20Report%20(1190
 
 Here is a video demo of real robots performing the auto delivery task.
 
-<!-- <video src="/files/navigation.mp4" controls="controls" controlslist="nodownload" style="max-width: 769px;">
-</video> -->
-
-
-
-<iframe frameborder="0" width="100%" height="100%" object-fill = "fill" src="/files/navigation.mp4" allowfullscreen>
-</iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe src="/files/navigation.mp4" style="position: absolute; width: 100%; height: 100%; border: none;" sandbox="" allowfullscreen></iframe>
+</div>
