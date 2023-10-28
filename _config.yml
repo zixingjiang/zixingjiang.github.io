@@ -91,7 +91,7 @@ author:
   employer         : # "RAIL, CUHK-SZ"
   pubmed           :
   orcid            : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=EQnCIBgAAAAJ&hl=en
   email            : 119010130@link.cuhk.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -108,7 +108,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : https://www.linkedin.com/in/zixing-jiang-9705a91b2/
   mastodon         : 
   pinterest        :
   soundcloud       :
