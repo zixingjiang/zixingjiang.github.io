@@ -23,10 +23,10 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ author.location }}</li>
+        <li><i class="fas fa-fw fa-map-marker-alt" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-building" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ author.employer }}</li>
+        <li><i class="fas fa-fw fa-building" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -113,7 +113,7 @@
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>ORCID</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true" style="padding-right: 1.5em;"></i>Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>Google Scholar</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>PubMed</a></li>
