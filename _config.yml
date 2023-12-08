@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Zixing's Homepage"
 title_separator          : "-"
-name                     : &name "Zixing JIANG"
-description              : &description "Undergraduate at the Chinese University of Hong Kong, Shenzhen"
+name                     : &name "Zixing Jiang"
+description              : &description "Zixing's Homapage"
 url                      : https://www.zixingjiang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zixingjiang/zixingjiang.github.io"
@@ -84,11 +84,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zixing JIANG"
+  name             : "Zixing Jiang"
   avatar           : "zixing_profile.jpg"
-  bio              : "Passionate about robotics + medicine."
-  location         : "Sha Tin, NT, HKSAR"
-  employer         : "Dept. of Surgery, CUHK"
+  bio              : "I develop robotic system for better healthcare."
+  location         : "Sha Tin, HKSAR"
+  employer         : "CUHK Surgery"
   pubmed           :
   orcid            : 
   googlescholar    : https://scholar.google.com/citations?user=EQnCIBgAAAAJ&hl=en
