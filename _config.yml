@@ -86,9 +86,9 @@ analytics:
 author:
   name             : "Zixing Jiang"
   avatar           : "zixing_profile.jpg"
-  bio              : "I develop robotic system for better healthcare."
+  bio              : "I develop robotic systems for better healthcare."
   location         : "Sha Tin, HKSAR"
-  employer         : "CUHK Surgery"
+  employer         : 
   pubmed           :
   orcid            : 
   googlescholar    : https://scholar.google.com/citations?user=EQnCIBgAAAAJ&hl=en
