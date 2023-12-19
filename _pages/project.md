@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 
-Here is a showcase of some of my previous and ongoing projects. 
+Here is a showcase of some of my previous and ongoing projects. This page may be outdated since I don't update it frequently. 
 
 {% include base_path %}
 

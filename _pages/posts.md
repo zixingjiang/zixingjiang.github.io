@@ -3,13 +3,10 @@ layout: archive
 permalink: /posts/
 title: "Blog Posts"
 author_profile: true
-header:
-  og_image: "posts/spatial-sql/gadm_wkt_filter_buffer-1.png"
 ---
 
-<!-- <h1 class="page__title">{{ page.title }}</h1> -->
 
-{% include base_path %}
+<!-- {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -18,4 +15,8 @@ header:
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+
+Posts on the way...
+
+![bike](/image/about/bike.jpg)
