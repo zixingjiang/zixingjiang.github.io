@@ -11,7 +11,7 @@ date: 2023-09-01
 
 {% include base_path %}
 
-You can [download a PDF copy here](/files/CV-Zixing.pdf). 
+[Click to download PDF](/files/CV-Zixing.pdf). 
 
 <iframe src="/files/cv.html" width="100%" height="700" marginwidth="0" marginheight="0" style="border:5px solid #333333"></iframe>
 

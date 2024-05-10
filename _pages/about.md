@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive_wide
 title: "About Me"
 excerpt: "Welcome to Zixing's homepage!"
 author_profile: true
