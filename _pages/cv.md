@@ -11,7 +11,7 @@ date: 2023-09-01
 
 {% include base_path %}
 
-[Click to download PDF](/files/CV-Zixing.pdf). 
+Up to July 2024. [Click to download PDF](/files/cv-zxjiang.pdf). 
 
-<iframe src="/files/cv.html" width="100%" height="700" marginwidth="0" marginheight="0" style="border:5px solid #333333"></iframe>
+<iframe src="/files/cv-zxjiang.pdf" width="100%" height="700" marginwidth="0" marginheight="0" style="border:5px solid #333333"></iframe>
 
